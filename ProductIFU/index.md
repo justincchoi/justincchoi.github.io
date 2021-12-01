@@ -1,5 +1,11 @@
 ### Product IFU
 
+| Product              | Website                                                                  | IFU                                                                                                                              | Misc                                                                                                                                          |   |
+|----------------------|--------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|---|
+| Terumo R2P Portfolio | [link](https://www.terumois.com/procedural-solutions/r2p-portfolio.html) | [link](https://www.terumois.com/content/dam/terumo-www/global-shared/terumo-tis/en-us/procedural/r2p/R2P-Portfolio-Brochure.pdf) | [case planning](https://www.terumois.com/content/dam/terumo-www/global-shared/terumo-tis/en-us/procedural/ravi/Radial-Case-Planning-Form.pdf) |   |
+|                      |                                                                          |                                                                                                                                  |                                                                                                                                               |   |
+|                      |                                                                          |                                                                                                                                  |                                                                                                                                               |   |
+
 [Terumo R2P Portfolio - product page](https://www.terumois.com/procedural-solutions/r2p-portfolio.html)  
 [Terumo R2P Portfolio - pdf](https://www.terumois.com/content/dam/terumo-www/global-shared/terumo-tis/en-us/procedural/r2p/R2P-Portfolio-Brochure.pdf)  
 [Terumo R2P Portfolio - case planning](https://www.terumois.com/content/dam/terumo-www/global-shared/terumo-tis/en-us/procedural/ravi/Radial-Case-Planning-Form.pdf)
