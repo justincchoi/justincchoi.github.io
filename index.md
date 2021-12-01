@@ -1,27 +1,9 @@
 ### Vascular Surgery Resources
 
+[Product IFU](https://justincchoi.github.io/ProductIFU/)
 
 [Landmark Papers](https://justincchoi.github.io/VSPapers/)
 
-[Product IFU](https://justincchoi.github.io/ProductIFU/)
+[Journal Article Review Template](https://github.com/justincchoi/justincchoi.github.io/blob/main/VSPapers/Journal%20Article%20Review%20Template%20-%20JCC.docx?raw=true)
 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
- and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[M&M Template](https://github.com/justincchoi/justincchoi.github.io/blob/main/M&M/VS%20M&M%20Template.pptx?raw=true)
