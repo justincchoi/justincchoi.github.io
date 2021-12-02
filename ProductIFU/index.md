@@ -36,15 +36,15 @@ BD Denali Vena Cava Filter - [product page](https://www.bd.com/en-us/offerings/c
 
 Cook Günther Tulip Vena Cava Filter - [product page](https://www.cookmedical.com/products/ea845922-f1f5-4038-a4bc-f1a14e768a2d/) - [pdf](https://www.cookmedical.com/data/resources/PIV-BM-GTVCFNDS-EN-200909.pdf) - [deployment](https://www.cookmedical.com/data/resources/D14960-EN-F_M3.pdf)
 
-AngioJet
+BSC AngioJet Peripheral Thrombectomy System - [product page](https://www.bostonscientific.com/en-US/products/thrombectomy-systems/angiojet-thrombectomy-system.html) - [pdf](https://www.bostonscientific.com/content/dam/bostonscientific/pi/portfolio-group/Thrombectomy/AngioJet/Resources/AngioJet%20Reference%20Guide%20(PI-282523-AC).pdf)
 
 Penumbra
 
 INARI
+- FlowTriever - [product page](https://www.inarimedical.com/flowtriever/)
+- ClotTriever - [product page](https://www.inarimedical.com/clottriever/)
 
-GORE IBE
-
-GORE TAG
+GORE TAG - [product page](https://www.goremedical.com/products/ctagac) - [sizing guide](https://www.goremedical.com/resource/AY0381-EN2) - [TAAA case planning](https://www.goremedical.com/resource/21194016-EN) - [TBAD case planning](https://www.goremedical.com/resource/21193951-EN) - [deployment](https://www.goremedical.com/resource/AW0124-EN2)
 
 GORE EXCLUDER
 - AAA Endoprosthesis - [product page](https://www.goremedical.com/products/excluder) - [configurations](https://www.goremedical.com/resource/21189485-EN)
