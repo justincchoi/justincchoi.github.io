@@ -57,7 +57,7 @@ INARI
 GORE TAG - [product page](https://www.goremedical.com/products/ctagac) - [sizing guide](https://www.goremedical.com/resource/AY0381-EN2) - [TAAA case planning](https://www.goremedical.com/resource/21194016-EN) - [TBAD case planning](https://www.goremedical.com/resource/21193951-EN) - [deployment](https://www.goremedical.com/resource/AW0124-EN2)
 
 GORE EXCLUDER
-- AAA Endoprosthesis - [product page](https://www.goremedical.com/products/excluder) - [configurations](https://www.goremedical.com/resource/21189485-EN)
+- AAA Endoprosthesis - [product page](https://www.goremedical.com/products/excluder) - [configurations](https://www.goremedical.com/resource/21189485-EN) - [sizing guide](https://www.goremedical.com/resource/2026108-EN)
 - IBE - [product page](https://www.goremedical.com/products/excluder/ibe) - [configurations](https://www.goremedical.com/resource/21189485-EN) - [sizing guide](http://icaavcr.com/wp-content/uploads/2020/05/Gore-IBD-PLANING.pdf)
 
 Medtronic Aortic Stent Grafts
