@@ -39,7 +39,7 @@ Abbott Amplatzer Vascular Plugs - [product page](https://www.cardiovascular.abbo
 
 BSC Interlock Coils - [product page](https://www.bostonscientific.com/en-US/products/embolization/interlock-and-idc-detachable-embolization-coils.html) - [Interlock-35](https://www.bostonscientific.com/content/dam/bostonscientific/pi/portfolio-group/embolization/interlock/Resources/Interlock-35-Brochure_PI-181206-AC.pdf) - [Interlock-18](https://www.bostonscientific.com/content/dam/bostonscientific/pi/portfolio-group/embolization/interlock/Resources/Interlock-18-Brochure_PI-177806-AB.pdf) - [IDC-18 Soft](https://www.bostonscientific.com/content/dam/bostonscientific/pi/portfolio-group/embolization/interlock/Resources/IDC-18-Soft-Brochure_PI-299412-AA.pdf)
 
-Cook Nester Embolization Coil - [product page](https://www.cookmedical.com/products/b092bc19-aecd-40aa-8146-430712000368/) - [sizing guide](https://www.cookmedical.com/data/resources/IR-D54849-EN-F_M3_1612287138403.pdf) - [pdf](https://www.cookmedical.com/data/resources/IR-D56670-EN-F_M3_1615905167295.pdf)
+Cook Nester Embolization Coil - [product page](https://www.cookmedical.com/products/b092bc19-aecd-40aa-8146-430712000368/) - [sizing](https://www.cookmedical.com/data/resources/IR-D54849-EN-F_M3_1612287138403.pdf) - [pdf](https://www.cookmedical.com/data/resources/IR-D56670-EN-F_M3_1615905167295.pdf)
 
 Penumbra Ruby Coil - [product page](https://www.penumbrainc.com/peripheral-device/ruby-coil/) - [pdf](https://www.angiocalc.com/pdf/RubyCoil_Brochure_USA.pdf)
 
@@ -51,20 +51,20 @@ Getinge Fusion Bioline - [product page](https://www.getinge.com/us/product-catal
 
 
 #### Aortic Devices  
-GORE TAG - [product page](https://www.goremedical.com/products/ctagac) - [sizing guide](https://www.goremedical.com/resource/AY0381-EN2) - [TAAA case planning](https://www.goremedical.com/resource/21194016-EN) - [TBAD case planning](https://www.goremedical.com/resource/21193951-EN) - [deployment](https://www.goremedical.com/resource/AW0124-EN2)
+GORE TAG - [product page](https://www.goremedical.com/products/ctagac) - [sizing](https://www.goremedical.com/resource/AY0381-EN2) - [TAAA planning](https://www.goremedical.com/resource/21194016-EN) - [TBAD planning](https://www.goremedical.com/resource/21193951-EN) - [deployment](https://www.goremedical.com/resource/AW0124-EN2)
 
 GORE EXCLUDER
-- AAA Endoprosthesis - [product page](https://www.goremedical.com/products/excluder) - [configurations](https://www.goremedical.com/resource/21189485-EN) - [sizing guide](https://www.goremedical.com/resource/2026108-EN)
-- IBE - [product page](https://www.goremedical.com/products/excluder/ibe) - [configurations](https://www.goremedical.com/resource/21189485-EN) - [sizing guide](http://icaavcr.com/wp-content/uploads/2020/05/Gore-IBD-PLANING.pdf)
+- AAA Endoprosthesis - [product page](https://www.goremedical.com/products/excluder) - [configurations](https://www.goremedical.com/resource/21189485-EN) - [sizing](https://www.goremedical.com/resource/2026108-EN)
+- IBE - [product page](https://www.goremedical.com/products/excluder/ibe) - [configurations](https://www.goremedical.com/resource/21189485-EN) - [sizing](http://icaavcr.com/wp-content/uploads/2020/05/Gore-IBD-PLANING.pdf)
 
 Medtronic Aortic Stent Grafts
-- Endurant II - [product page](https://www.medtronic.com/us-en/healthcare-professionals/products/cardiovascular/aortic-stent-grafts/endurantii.html) - [sizing guide](https://www.medtronic.com/content/dam/medtronic-com/products/cardiovascular/aortic-stent-graft-products/endurant/documents/endurant-ii-sizing-sheet-us.pdf?bypassIM=true) - [pre-case planning](http://evareducation.com/file.php/1/Documents/Medtronic/Medtronic_Endurant_Precase_Planning_Final.pdf)
-- Valiant - [product page](https://www.medtronic.com/us-en/healthcare-professionals/products/cardiovascular/aortic-stent-grafts/valiant-thoracic-stent-graft-with-captivia-delivery-system.html) - [sizing guide](https://www.medtronic.com/content/dam/medtronic-com/products/cardiovascular/aortic-stent-graft-products/valiant/documents/valiant-stent-sizing-sheet-us.pdf#page=2?bypassIM=true)
+- Endurant II - [product page](https://www.medtronic.com/us-en/healthcare-professionals/products/cardiovascular/aortic-stent-grafts/endurantii.html) - [sizing](https://www.medtronic.com/content/dam/medtronic-com/products/cardiovascular/aortic-stent-graft-products/endurant/documents/endurant-ii-sizing-sheet-us.pdf?bypassIM=true) - [pre-case planning](http://evareducation.com/file.php/1/Documents/Medtronic/Medtronic_Endurant_Precase_Planning_Final.pdf)
+- Valiant - [product page](https://www.medtronic.com/us-en/healthcare-professionals/products/cardiovascular/aortic-stent-grafts/valiant-thoracic-stent-graft-with-captivia-delivery-system.html) - [sizing](https://www.medtronic.com/content/dam/medtronic-com/products/cardiovascular/aortic-stent-graft-products/valiant/documents/valiant-stent-sizing-sheet-us.pdf#page=2?bypassIM=true)
 
 Cook Zenith Endovascular Grafts
-- Alpha Thoracic - [product page](https://aortic.cookmedical.com/thoracic/) - [sizing guide](https://mobileportfolio.cookmedical.com/public/16002/16002) - [IFU](https://www.cookmedical.com/data/IFU_PDF/I-ALPHA-THORACIC-442-03.PDF)
-- Fenestrated AAA - [product page](https://aortic.cookmedical.com/visceral/) - [sizing guide](https://mobileportfolio.cookmedical.com/public/12922/12922) - [IFU](https://www.cookmedical.com/data/IFU_PDF/IFU-FU_V3.PDF) - [FenCheck](https://fencheck.cookmedical.com/zenfencheck/)  
-- Flex AAA - [product page](https://aortic.cookmedical.com/abdominal/) - [sizing guide](https://mobileportfolio.cookmedical.com/public/10233/10233) - [IFU](https://www.cookmedical.com/data/IFU_PDF/T_ZAAAF_REV5.PDF)
+- Alpha Thoracic - [product page](https://aortic.cookmedical.com/thoracic/) - [sizing](https://mobileportfolio.cookmedical.com/public/16002/16002) - [IFU](https://www.cookmedical.com/data/IFU_PDF/I-ALPHA-THORACIC-442-03.PDF)
+- Fenestrated AAA - [product page](https://aortic.cookmedical.com/visceral/) - [sizing](https://mobileportfolio.cookmedical.com/public/12922/12922) - [IFU](https://www.cookmedical.com/data/IFU_PDF/IFU-FU_V3.PDF) - [FenCheck](https://fencheck.cookmedical.com/zenfencheck/)  
+- Flex AAA - [product page](https://aortic.cookmedical.com/abdominal/) - [sizing](https://mobileportfolio.cookmedical.com/public/10233/10233) - [IFU](https://www.cookmedical.com/data/IFU_PDF/T_ZAAAF_REV5.PDF)
 
 Terumo R2P - [product page](https://www.terumois.com/procedural-solutions/r2p-portfolio.html) - [pdf](https://www.terumois.com/content/dam/terumo-www/global-shared/terumo-tis/en-us/procedural/r2p/R2P-Portfolio-Brochure.pdf) - [case planning](https://www.terumois.com/content/dam/terumo-www/global-shared/terumo-tis/en-us/procedural/ravi/Radial-Case-Planning-Form.pdf)
 
