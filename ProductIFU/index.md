@@ -18,19 +18,21 @@ GORE VIABAHN VBX - [product page](https://www.goremedical.com/products/vbx) - [c
 
 Getinge iCAST/Advanta V12 - [product page](https://www.getinge.com/int/product-catalog/advanta-v12-balloon-expandable-covered-stent) - [pdf](https://www.getinge.com/dam/hospital/documents/english/011529_v12_ld_one_page_ordering_sheet-en-non_us.pdf)
 
-BDPI LifeStar
+BD LifeStar
 
-BDPI LifeStent
+BD LifeStent
 
-BDPI LifeStream
+BD LifeStream
 
-BDPI Venovo
+BD Venovo
 
 BSC Vici
 
 BSC Wallstent
 
-Bard Denali IVC Filter
+BD Denali Vena Cava Filter - [product page](https://www.bd.com/en-us/offerings/capabilities/vascular-surgery/vascular-occlusion/ivc-filters/denali-vena-cava-filter) - [pdf, femoral](https://www.bardpv.com/uploads/BDPI_Denali_BAW5410500R6_Femoral_IFU.pdf) - [pdf, jugular](https://www.bd.com/assets/documents/guides/directions-for-use/PI_PV_Denali-Vena-Cava-Filter_DF_MULTI.pdf)
+
+Cook Günther Tulip Vena Cava Filter - [product page](https://www.cookmedical.com/products/ea845922-f1f5-4038-a4bc-f1a14e768a2d/) - [pdf](https://www.cookmedical.com/data/resources/PIV-BM-GTVCFNDS-EN-200909.pdf) - [deployment](https://www.cookmedical.com/data/resources/D14960-EN-F_M3.pdf)
 
 AngioJet
 
@@ -42,18 +44,11 @@ GORE IBE
 GORE TAG
 GORE EXCLUDER
 
-Medtronic Endurant
-Medtronic Valiant
+Medtronic Aortic Stent Grafts
+- Endurant II - [product page](https://www.medtronic.com/us-en/healthcare-professionals/products/cardiovascular/aortic-stent-grafts/endurantii.html) - [sizing guide](https://www.medtronic.com/content/dam/medtronic-com/products/cardiovascular/aortic-stent-graft-products/endurant/documents/endurant-ii-sizing-sheet-us.pdf?bypassIM=true)
+- Valiant - [product page](https://www.medtronic.com/us-en/healthcare-professionals/products/cardiovascular/aortic-stent-grafts/valiant-thoracic-stent-graft-with-captivia-delivery-system.html) - [sizing guide](https://www.medtronic.com/content/dam/medtronic-com/products/cardiovascular/aortic-stent-graft-products/valiant/documents/valiant-stent-sizing-sheet-us.pdf#page=2?bypassIM=true)
 
-[Cook Zenith Alpha Thoracic Endovascular Graft - product page](https://aortic.cookmedical.com/thoracic/)  
-[Cook Zenith Alpha Thoracic Endovascular Graft - sizing guide](https://mobileportfolio.cookmedical.com/public/16002/16002)  
-[Cook Zenith Alpha Thoracic Endovascular Graft - IFU](https://www.cookmedical.com/data/IFU_PDF/I-ALPHA-THORACIC-442-03.PDF)
-
-[Cook Zenith Fenestrated AAA Endovascular Graft - product page](https://aortic.cookmedical.com/visceral/)  
-[Cook Zenith FenCheck](https://fencheck.cookmedical.com/zenfencheck/)  
-[Cook Zenith Fenestrated AAA Endovascular Graft - sizing guide](https://mobileportfolio.cookmedical.com/public/12922/12922)  
-[Cook Zenith Fenestrated AAA Endovascular Graft - IFU](https://www.cookmedical.com/data/IFU_PDF/IFU-FU_V3.PDF)
-
-[Cook Zenith Flex AAA Endovascular Graft - product page](https://aortic.cookmedical.com/abdominal/)  
-[Cook Zenith Flex AAA Endovascular Graft - sizing guide](https://mobileportfolio.cookmedical.com/public/10233/10233)  
-[Cook Zenith Flex AAA Endovascular Graft - IFU](https://www.cookmedical.com/data/IFU_PDF/T_ZAAAF_REV5.PDF)
+Cook Zenith Endovascular Grafts
+- Alpha Thoracic - [product page](https://aortic.cookmedical.com/thoracic/) - [sizing guide](https://mobileportfolio.cookmedical.com/public/16002/16002) - [IFU](https://www.cookmedical.com/data/IFU_PDF/I-ALPHA-THORACIC-442-03.PDF)
+- Fenestrated AAA - [product page](https://aortic.cookmedical.com/visceral/) - [sizing guide](https://mobileportfolio.cookmedical.com/public/12922/12922) - [IFU](https://www.cookmedical.com/data/IFU_PDF/IFU-FU_V3.PDF) - [FenCheck](https://fencheck.cookmedical.com/zenfencheck/)  
+- Flex AAA - [product page](https://aortic.cookmedical.com/abdominal/) - [sizing guide](https://mobileportfolio.cookmedical.com/public/10233/10233) - [IFU](https://www.cookmedical.com/data/IFU_PDF/T_ZAAAF_REV5.PDF)
