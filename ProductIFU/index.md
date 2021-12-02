@@ -58,7 +58,7 @@ GORE TAG - [product page](https://www.goremedical.com/products/ctagac) - [sizing
 
 GORE EXCLUDER
 - AAA Endoprosthesis - [product page](https://www.goremedical.com/products/excluder) - [configurations](https://www.goremedical.com/resource/21189485-EN)
-- IBE - [product page](https://www.goremedical.com/products/excluder/ibe) - [configurations](https://www.goremedical.com/resource/21189485-EN)
+- IBE - [product page](https://www.goremedical.com/products/excluder/ibe) - [configurations](https://www.goremedical.com/resource/21189485-EN) - [sizing guide](http://icaavcr.com/wp-content/uploads/2020/05/Gore-IBD-PLANING.pdf)
 
 Medtronic Aortic Stent Grafts
 - Endurant II - [product page](https://www.medtronic.com/us-en/healthcare-professionals/products/cardiovascular/aortic-stent-grafts/endurantii.html) - [sizing guide](https://www.medtronic.com/content/dam/medtronic-com/products/cardiovascular/aortic-stent-graft-products/endurant/documents/endurant-ii-sizing-sheet-us.pdf?bypassIM=true)
