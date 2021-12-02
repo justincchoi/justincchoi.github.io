@@ -1,4 +1,4 @@
-### Product IFU
+### Devices
 
 #### Closure Devices  
 - Abbott Perclose Pro-Glide - [product page](https://www.cardiovascular.abbott/us/en/hcp/products/peripheral-intervention/vessel-closure/perclose-proglide-suture-mediated-closure-system/overview.html)
