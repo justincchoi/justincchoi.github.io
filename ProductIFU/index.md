@@ -4,7 +4,7 @@ Terumo R2P - [product page](https://www.terumois.com/procedural-solutions/r2p-po
 
 Philips Peripheral IVUS Catheters - [product page](https://www.usa.philips.com/healthcare/education-resources/technologies/igt/intravascular-ultrasound-ivus/peripheral/peripheral-ivus) - [pdf](https://www.documents.philips.com/assets/20180215/4df65d5bd1454f7ebf00a888015e4ada.pdf)
 
-Edwards Fogarty Catheters - [product page](https://www.edwards.com/devices/catheters/clot-management) - [pdf)(https://edwardsprod.blob.core.windows.net/media/Br/devices/catheters/clot%20management/fogartyclotmanagement.pdf)
+Edwards Fogarty Catheters - [product page](https://www.edwards.com/devices/catheters/clot-management) - [pdf](https://edwardsprod.blob.core.windows.net/media/Br/devices/catheters/clot%20management/fogartyclotmanagement.pdf)
 
 Abbott Amplatzer Vascular Plugs - [product page](https://www.cardiovascular.abbott/int/en/hcp/products/peripheral-intervention/amplatzer-family-vascular-plugs.html) - [pdf](http://www.cardion.cz/file/1290/avpfam-specsheet-intl.pdf)
 
