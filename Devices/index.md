@@ -9,12 +9,12 @@
 - Philips Quick-Cross Support Catheter - [product page](https://www.usa.philips.com/healthcare/product/HCIGTDQKCRCGWR/quick-cross-support-catheter) - [pdf](https://www.documents.philips.com/assets/20180716/04e0c93da0434e638c7ba91f015db4b7.pdf)
 - Teleflex Minnie Support Catheter - [product page](https://teleflex.com/usa/en/product-areas/interventional/coronary-interventions/minnie-support-catheter/index.html) - [pdf](https://teleflex.com/usa/en/product-areas/interventional/peripheral-interventions/minnie-support-catheter/Minnie-Support-Catheter-Brochure-ML2608-rE.pdf)
 - Terumo NAVICROSS Support Catheter - [product page](https://www.terumois.com/products/catheters/navicross.html)
+- Terumo R2P - [product page](https://www.terumois.com/procedural-solutions/r2p-portfolio.html) - [pdf](https://www.terumois.com/content/dam/terumo-www/global-shared/terumo-tis/en-us/procedural/r2p/R2P-Portfolio-Brochure.pdf) - [case planning](https://www.terumois.com/content/dam/terumo-www/global-shared/terumo-tis/en-us/procedural/ravi/Radial-Case-Planning-Form.pdf)
 
-#### Closure Devices  
-- Abbott Perclose Pro-Glide - [product page](https://www.cardiovascular.abbott/us/en/hcp/products/peripheral-intervention/vessel-closure/perclose-proglide-suture-mediated-closure-system/overview.html)
-- Cordis MYNXGRIP - [product page](https://www.cordis.com/en_us/cardiology/close/mynxgrip-vascular-closure-device.html) - [deployment](https://www.cordis.com/content/dam/cordis/web/documents/brochure/cordis-us-mynx-grip-vascular-closure-device-procedure-guide.pdf)
-- Cordis EXOSEAL - [product page](https://www.cordis.com/en_us/cardiology/close/exoseal-vascular-closure-device.html)
-- Terumo ANGIO-SEAL - [product page](https://www.terumois.com/products/closure/angio-seal-vascular-closure-devices/angio-seal.html)
+#### Guidewires
+- ASAHI - [pdf](https://asahi-inteccusa-medical.com/wp-content/uploads/2021/01/Asahi-10426-PeripheralGuideWiresBrochure-Source-2020-07-10-web.pdf)
+- Abbott - [product page](https://www.cardiovascular.abbott/us/en/hcp/products/peripheral-intervention/guide-wires.html) - [pdf](https://www.cardiovascular.abbott/content/dam/bss/divisionalsites/cv/hcp/products/peripheral-intervention/guidewires/documents/peripheral-guide-wires-full-portfolio-brochure.pdf)
+- Terumo Glidewire - [product page](https://www.terumois.com/products/guidewires.html) - [pdf](https://www.terumois.com/content/dam/terumopublic/products/glidewire/GLIDEWIRE-Portfolio-Brochure.pdf)
 
 #### Stents  
 - BSC Carotid Wallstent - [product page](https://www.bostonscientific.com/en-US/products/stents--vascular/wallstent-endoprosthesis/Carotid_WALLSTENT_Monorail_Endoprosthesis.html)
@@ -29,6 +29,12 @@
 - BD Venovo - [product page](https://www.bd.com/en-us/offerings/capabilities/vascular-surgery/vascular-stenting/venous-stents/venovo-venous-stent-system) - [pdf](https://www.bd.com/assets/documents/PDH/BD_BARD_Venovo-Brochure_EN.pdf)
 - Medtronic Abre - [product page](https://www.medtronic.com/us-en/healthcare-professionals/products/cardiovascular/deep-venous/abre-venous-stent.html)
 - BSC Venous Wallstent - [product page](https://www.bostonscientific.com/en-US/products/stents--vascular/wallstent-endoprosthesis/venous-wallstent.html) - [pdf](https://www.bostonscientific.com/content/dam/bostonscientific/pi/portfolio-group/Stents/WALLSTENT-Endo/Resources/Wallstent_Venous_Brochure_(PI-781701-AA).pdf)
+
+#### Closure Devices  
+- Abbott Perclose Pro-Glide - [product page](https://www.cardiovascular.abbott/us/en/hcp/products/peripheral-intervention/vessel-closure/perclose-proglide-suture-mediated-closure-system/overview.html)
+- Cordis MYNXGRIP - [product page](https://www.cordis.com/en_us/cardiology/close/mynxgrip-vascular-closure-device.html) - [deployment](https://www.cordis.com/content/dam/cordis/web/documents/brochure/cordis-us-mynx-grip-vascular-closure-device-procedure-guide.pdf)
+- Cordis EXOSEAL - [product page](https://www.cordis.com/en_us/cardiology/close/exoseal-vascular-closure-device.html)
+- Terumo ANGIO-SEAL - [product page](https://www.terumois.com/products/closure/angio-seal-vascular-closure-devices/angio-seal.html)
 
 #### Coils and Plugs  
 - Abbott Amplatzer Vascular Plugs - [product page](https://www.cardiovascular.abbott/int/en/hcp/products/peripheral-intervention/amplatzer-family-vascular-plugs.html) - [pdf](http://www.cardion.cz/file/1290/avpfam-specsheet-intl.pdf)
@@ -59,8 +65,8 @@
 - INARI - [FlowTriever](https://www.inarimedical.com/flowtriever/) - [ClotTriever](https://www.inarimedical.com/clottriever/)
 
 #### Misc
-- Terumo R2P - [product page](https://www.terumois.com/procedural-solutions/r2p-portfolio.html) - [pdf](https://www.terumois.com/content/dam/terumo-www/global-shared/terumo-tis/en-us/procedural/r2p/R2P-Portfolio-Brochure.pdf) - [case planning](https://www.terumois.com/content/dam/terumo-www/global-shared/terumo-tis/en-us/procedural/ravi/Radial-Case-Planning-Form.pdf)
 - Philips Peripheral IVUS Catheters - [product page](https://www.usa.philips.com/healthcare/education-resources/technologies/igt/intravascular-ultrasound-ivus/peripheral/peripheral-ivus) - [pdf](https://www.documents.philips.com/assets/20180215/4df65d5bd1454f7ebf00a888015e4ada.pdf)
 - Edwards Fogarty Catheters - [product page](https://www.edwards.com/devices/catheters/clot-management) - [pdf](https://edwardsprod.blob.core.windows.net/media/Br/devices/catheters/clot%20management/fogartyclotmanagement.pdf)
 - BD Denali Vena Cava Filter - [product page](https://www.bd.com/en-us/offerings/capabilities/vascular-surgery/vascular-occlusion/ivc-filters/denali-vena-cava-filter) - [pdf (femoral)](https://www.bardpv.com/uploads/BDPI_Denali_BAW5410500R6_Femoral_IFU.pdf) - [pdf (jugular)](https://www.bd.com/assets/documents/guides/directions-for-use/PI_PV_Denali-Vena-Cava-Filter_DF_MULTI.pdf)
+- Cook Celect Platinum Vena Cava Filter -- [product page](https://www.cookmedical.com/products/3901d990-413b-493d-8445-44a72334cb6d/) - [pdf](https://www.cookmedical.com/data/resources/D14957-EN-F_M3.pdf)
 - Cook Günther Tulip Vena Cava Filter - [product page](https://www.cookmedical.com/products/ea845922-f1f5-4038-a4bc-f1a14e768a2d/) - [pdf](https://www.cookmedical.com/data/resources/PIV-BM-GTVCFNDS-EN-200909.pdf) - [deployment](https://www.cookmedical.com/data/resources/D14960-EN-F_M3.pdf)
