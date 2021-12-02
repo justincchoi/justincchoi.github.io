@@ -6,9 +6,7 @@
 |                      |                                                                          |                                                                                                                                  |                                                                                                                                               |   |
 |                      |                                                                          |                                                                                                                                  |                                                                                                                                               |   |
 
-[Terumo R2P Portfolio - product page](https://www.terumois.com/procedural-solutions/r2p-portfolio.html)  
-[Terumo R2P Portfolio - pdf](https://www.terumois.com/content/dam/terumo-www/global-shared/terumo-tis/en-us/procedural/r2p/R2P-Portfolio-Brochure.pdf)  
-[Terumo R2P Portfolio - case planning](https://www.terumois.com/content/dam/terumo-www/global-shared/terumo-tis/en-us/procedural/ravi/Radial-Case-Planning-Form.pdf)
+[Terumo R2P Portfolio](https://www.terumois.com/procedural-solutions/r2p-portfolio.html) - [pdf](https://www.terumois.com/content/dam/terumo-www/global-shared/terumo-tis/en-us/procedural/r2p/R2P-Portfolio-Brochure.pdf) | [case planning](https://www.terumois.com/content/dam/terumo-www/global-shared/terumo-tis/en-us/procedural/ravi/Radial-Case-Planning-Form.pdf)
 
 [Philips Peripheral IVUS Catheters - product page](https://www.usa.philips.com/healthcare/education-resources/technologies/igt/intravascular-ultrasound-ivus/peripheral/peripheral-ivus)  
 [Philips Peripheral IVUS Catheters - pdf](https://www.documents.philips.com/assets/20180215/4df65d5bd1454f7ebf00a888015e4ada.pdf)
