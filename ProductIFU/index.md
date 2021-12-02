@@ -13,6 +13,8 @@ Terumo ANGIO-SEAL - [product page](https://www.terumois.com/products/closure/ang
 #### Stents  
 BSC Carotid Wallstent - [product page](https://www.bostonscientific.com/en-US/products/stents--vascular/wallstent-endoprosthesis/Carotid_WALLSTENT_Monorail_Endoprosthesis.html)
 
+Silk Road TCAR - [product page](https://silkroadmed.com/healthcare-professionals/) - [pdf](https://silkroadmed.com/wp-content/uploads/2021/02/AP00499.D-TCAR-Brochure-So-Much-More.pdf) - [exposure/access](https://silkroadmed.com/wp-content/uploads/2020/09/SRM_Exposure_and_Access_sheet.pdf)
+
 GORE VIABAHN - [product page](https://www.goremedical.com/products/viabahn) - [configurations](https://www.goremedical.com/products/viabahn/specifications-us)
 
 GORE VIABAHN VBX - [product page](https://www.goremedical.com/products/vbx) - [configurations](https://www.goremedical.com/resource/AV1068-EN1)
@@ -25,7 +27,7 @@ BD LifeStar - [product page](https://www.bd.com/en-us/offerings/capabilities/vas
 
 BD LifeStent - [product page](https://www.bd.com/en-us/offerings/capabilities/vascular-surgery/vascular-stenting/vascular-stents/lifestent-5f-vascular-stent-system) - [pdf](https://www.bd.com/assets/documents/PDH/BDPI_LifeStent-5F_BPV-STNT-0717-0061-3_PF10661_Brochure.pdf)
 
-BD Venovo - [product page]https://www.bd.com/en-us/offerings/capabilities/vascular-surgery/vascular-stenting/venous-stents/venovo-venous-stent-system - [pdf](https://www.bd.com/assets/documents/PDH/BD_BARD_Venovo-Brochure_EN.pdf)
+BD Venovo - [product page](https://www.bd.com/en-us/offerings/capabilities/vascular-surgery/vascular-stenting/venous-stents/venovo-venous-stent-system) - [pdf](https://www.bd.com/assets/documents/PDH/BD_BARD_Venovo-Brochure_EN.pdf)
 
 Medtronic Abre - [product page](https://www.medtronic.com/us-en/healthcare-professionals/products/cardiovascular/deep-venous/abre-venous-stent.html)
 
