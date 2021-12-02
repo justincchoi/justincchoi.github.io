@@ -24,6 +24,8 @@ BD LifeStent
 
 BD LifeStream
 
+Abbott Supera
+
 BD Venovo
 
 BSC Vici
@@ -41,8 +43,12 @@ Penumbra
 INARI
 
 GORE IBE
+
 GORE TAG
+
 GORE EXCLUDER
+- AAA Endoprosthesis - [product page](https://www.goremedical.com/products/excluder) - [configurations](https://www.goremedical.com/resource/21189485-EN)
+- IBE - [product page](https://www.goremedical.com/products/excluder/ibe) - [configurations](https://www.goremedical.com/resource/21189485-EN)
 
 Medtronic Aortic Stent Grafts
 - Endurant II - [product page](https://www.medtronic.com/us-en/healthcare-professionals/products/cardiovascular/aortic-stent-grafts/endurantii.html) - [sizing guide](https://www.medtronic.com/content/dam/medtronic-com/products/cardiovascular/aortic-stent-graft-products/endurant/documents/endurant-ii-sizing-sheet-us.pdf?bypassIM=true)
