@@ -10,6 +10,8 @@
 - Teleflex Minnie Support Catheter - [product page](https://teleflex.com/usa/en/product-areas/interventional/coronary-interventions/minnie-support-catheter/index.html) - [pdf](https://teleflex.com/usa/en/product-areas/interventional/peripheral-interventions/minnie-support-catheter/Minnie-Support-Catheter-Brochure-ML2608-rE.pdf)
 - Terumo NAVICROSS Support Catheter - [product page](https://www.terumois.com/products/catheters/navicross.html)
 - Terumo R2P - [product page](https://www.terumois.com/procedural-solutions/r2p-portfolio.html) - [pdf](https://www.terumois.com/content/dam/terumo-www/global-shared/terumo-tis/en-us/procedural/r2p/R2P-Portfolio-Brochure.pdf) - [case planning](https://www.terumois.com/content/dam/terumo-www/global-shared/terumo-tis/en-us/procedural/ravi/Radial-Case-Planning-Form.pdf)
+- angiodynamics Uni-Fuse - [product page](https://www.angiodynamics.com/product/uni-fuse-infusion-catheter/) - [pdf](https://www.angiodynamics.com/wp-content/uploads/2021/02/GL-VI-BR-383-Rev-01-Uni-Fuse-Brochure-WEB-2.pdf)
+- BSC EKOS - [product page](https://www.bostonscientific.com/en-US/products/thrombectomy-systems/ekosonic-endovascular-system.html) - [pdf](https://www.bostonscientific.com/content/dam/bostonscientific/pi/portfolio-group/Vascular%20Surgery/ekos/campaign/pdf/ekos-endovascular-system-brochure.pdf)
 
 #### Guidewires
 - ASAHI - [pdf](https://asahi-inteccusa-medical.com/wp-content/uploads/2021/01/Asahi-10426-PeripheralGuideWiresBrochure-Source-2020-07-10-web.pdf)
