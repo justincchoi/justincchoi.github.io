@@ -12,9 +12,9 @@ GORE PROPATEN Vascular Graft - [product page](https://www.goremedical.com/produc
 
 Getinge Fusion Bioline - [product page](https://www.getinge.com/us/product-catalog/fusion-bioline/)
 
-GORE VIABAHN - [product page](https://www.goremedical.com/products/viabahn) - [specifications](https://www.goremedical.com/products/viabahn/specifications-us)
+GORE VIABAHN - [product page](https://www.goremedical.com/products/viabahn) - [configurations](https://www.goremedical.com/products/viabahn/specifications-us)
 
-GORE VIABAHN VBX - [product page](https://www.goremedical.com/products/vbx) - [pdf](https://www.goremedical.com/resource/AV1068-EN1)
+GORE VIABAHN VBX - [product page](https://www.goremedical.com/products/vbx) - [configurations](https://www.goremedical.com/resource/AV1068-EN1)
 
 Getinge iCAST/Advanta V12 - [product page](https://www.getinge.com/int/product-catalog/advanta-v12-balloon-expandable-covered-stent) - [pdf](https://www.getinge.com/dam/hospital/documents/english/011529_v12_ld_one_page_ordering_sheet-en-non_us.pdf)
 
