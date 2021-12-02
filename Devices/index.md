@@ -28,7 +28,7 @@
 
 #### Grafts  
 - GORE PROPATEN Vascular Graft - [product page](https://www.goremedical.com/products/propaten) - [pdf](https://www.goremedical.com/resource/AY0065-EN1)
-- Getinge Fusion Bioline - [product page](https://www.getinge.com/us/product-catalog/fusion-bioline/)
+- Getinge Fusion Bioline - [product page](https://www.getinge.com/us/product-catalog/fusion-bioline/) - [pdf](https://www.getinge.com/dam/hospital/documents/english/mcv00106164_fusion_bioline_brochure_9-18-20-en-us.pdf)
 
 #### Aortic Devices  
 - GORE TAG - [product page](https://www.goremedical.com/products/ctagac) - [sizing](https://www.goremedical.com/resource/AY0381-EN2) - [TAAA planning](https://www.goremedical.com/resource/21194016-EN) - [TBAD planning](https://www.goremedical.com/resource/21193951-EN) - [deployment](https://www.goremedical.com/resource/AW0124-EN2)
