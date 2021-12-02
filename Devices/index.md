@@ -5,6 +5,10 @@
 - Cook Flexor Ansel Sheaths - [pdf](https://www.cookmedical.com/data/resources/PI-D54042-EN-F_M3_1580928539035.pdf)
 - Terumo Pinnacle Destination Sheaths - [product page](https://www.terumois.com/products/access/pinnacle-destination.html) - [pdf](https://www.terumois.com/content/dam/terumopublic/products/pinnacle/Pinnacle-Family-Brochure.pdf)
 - GORE DrySeal Sheath - [product page](https://www.goremedical.com/products/dryseal) - [pdf](https://www.goremedical.com/resource/AV0496-EN3)
+- Cook CXI Support Catheter - [pdf](https://www.cookmedical.com/data/resources/AI-D45648-EN-F_M3_1553106061037.pdf)
+- Philips Quick-Cross Support Catheter - [product page](https://www.usa.philips.com/healthcare/product/HCIGTDQKCRCGWR/quick-cross-support-catheter) - [pdf](https://www.documents.philips.com/assets/20180716/04e0c93da0434e638c7ba91f015db4b7.pdf)
+- Teleflex Minnie Support Catheter - [product page](https://teleflex.com/usa/en/product-areas/interventional/coronary-interventions/minnie-support-catheter/index.html) - [pdf](https://teleflex.com/usa/en/product-areas/interventional/peripheral-interventions/minnie-support-catheter/Minnie-Support-Catheter-Brochure-ML2608-rE.pdf)
+- Terumo NAVICROSS Support Catheter - [product page](https://www.terumois.com/products/catheters/navicross.html)
 
 #### Closure Devices  
 - Abbott Perclose Pro-Glide - [product page](https://www.cardiovascular.abbott/us/en/hcp/products/peripheral-intervention/vessel-closure/perclose-proglide-suture-mediated-closure-system/overview.html)
