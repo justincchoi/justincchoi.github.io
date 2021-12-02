@@ -11,6 +11,8 @@ Terumo ANGIO-SEAL - [product page](https://www.terumois.com/products/closure/ang
 
 
 #### Stents  
+BSC Carotid Wallstent - [product page](https://www.bostonscientific.com/en-US/products/stents--vascular/wallstent-endoprosthesis/Carotid_WALLSTENT_Monorail_Endoprosthesis.html)
+
 GORE VIABAHN - [product page](https://www.goremedical.com/products/viabahn) - [configurations](https://www.goremedical.com/products/viabahn/specifications-us)
 
 GORE VIABAHN VBX - [product page](https://www.goremedical.com/products/vbx) - [configurations](https://www.goremedical.com/resource/AV1068-EN1)
@@ -19,19 +21,15 @@ Getinge iCAST/Advanta V12 - [product page](https://www.getinge.com/int/product-c
 
 Abbott Supera - [product page](https://www.cardiovascular.abbott/us/en/hcp/products/peripheral-intervention/supera-stent-system/overview.html) - [deployment](https://www.cardiovascular.abbott/content/dam/bss/divisionalsites/cv/pdf/guides/AV3651-193-SuperaDeplymnt-WebPstr-US_NC-X1a_M6a.pdf)
 
-BD LifeStar
+BD LifeStar - [product page](https://www.bd.com/en-us/offerings/capabilities/vascular-surgery/vascular-stenting/vascular-stents/lifestar-vascular-stent-system)
 
-BD LifeStent
+BD LifeStent - [product page](https://www.bd.com/en-us/offerings/capabilities/vascular-surgery/vascular-stenting/vascular-stents/lifestent-5f-vascular-stent-system) - [pdf](https://www.bd.com/assets/documents/PDH/BDPI_LifeStent-5F_BPV-STNT-0717-0061-3_PF10661_Brochure.pdf)
 
-BD LifeStream
+BD Venovo - [product page]https://www.bd.com/en-us/offerings/capabilities/vascular-surgery/vascular-stenting/venous-stents/venovo-venous-stent-system - [pdf](https://www.bd.com/assets/documents/PDH/BD_BARD_Venovo-Brochure_EN.pdf)
 
-Abbott Supera
+Medtronic Abre - [product page](https://www.medtronic.com/us-en/healthcare-professionals/products/cardiovascular/deep-venous/abre-venous-stent.html)
 
-BD Venovo
-
-BSC Vici
-
-BSC Wallstent
+BSC Venous Wallstent - [product page](https://www.bostonscientific.com/en-US/products/stents--vascular/wallstent-endoprosthesis/venous-wallstent.html) - [pdf](https://www.bostonscientific.com/content/dam/bostonscientific/pi/portfolio-group/Stents/WALLSTENT-Endo/Resources/Wallstent_Venous_Brochure_(PI-781701-AA).pdf)
 
 
 #### Coils and Plugs  
@@ -69,6 +67,16 @@ Cook Zenith Endovascular Grafts
 Terumo R2P - [product page](https://www.terumois.com/procedural-solutions/r2p-portfolio.html) - [pdf](https://www.terumois.com/content/dam/terumo-www/global-shared/terumo-tis/en-us/procedural/r2p/R2P-Portfolio-Brochure.pdf) - [case planning](https://www.terumois.com/content/dam/terumo-www/global-shared/terumo-tis/en-us/procedural/ravi/Radial-Case-Planning-Form.pdf)
 
 
+#### Thrombectomy Devices
+BSC AngioJet Peripheral Thrombectomy System - [product page](https://www.bostonscientific.com/en-US/products/thrombectomy-systems/angiojet-thrombectomy-system.html) - [pdf](https://www.bostonscientific.com/content/dam/bostonscientific/pi/portfolio-group/Thrombectomy/AngioJet/Resources/AngioJet%20Reference%20Guide%20(PI-282523-AC).pdf)
+
+Penumbra Indigo - [product page](https://www.penumbrainc.com/peripheral-device/indigo-system/)
+
+INARI
+- FlowTriever - [product page](https://www.inarimedical.com/flowtriever/)
+- ClotTriever - [product page](https://www.inarimedical.com/clottriever/)
+
+
 #### Misc
 Philips Peripheral IVUS Catheters - [product page](https://www.usa.philips.com/healthcare/education-resources/technologies/igt/intravascular-ultrasound-ivus/peripheral/peripheral-ivus) - [pdf](https://www.documents.philips.com/assets/20180215/4df65d5bd1454f7ebf00a888015e4ada.pdf)
 
@@ -77,12 +85,3 @@ Edwards Fogarty Catheters - [product page](https://www.edwards.com/devices/cathe
 BD Denali Vena Cava Filter - [product page](https://www.bd.com/en-us/offerings/capabilities/vascular-surgery/vascular-occlusion/ivc-filters/denali-vena-cava-filter) - [pdf, femoral](https://www.bardpv.com/uploads/BDPI_Denali_BAW5410500R6_Femoral_IFU.pdf) - [pdf, jugular](https://www.bd.com/assets/documents/guides/directions-for-use/PI_PV_Denali-Vena-Cava-Filter_DF_MULTI.pdf)
 
 Cook Günther Tulip Vena Cava Filter - [product page](https://www.cookmedical.com/products/ea845922-f1f5-4038-a4bc-f1a14e768a2d/) - [pdf](https://www.cookmedical.com/data/resources/PIV-BM-GTVCFNDS-EN-200909.pdf) - [deployment](https://www.cookmedical.com/data/resources/D14960-EN-F_M3.pdf)
-
-BSC AngioJet Peripheral Thrombectomy System - [product page](https://www.bostonscientific.com/en-US/products/thrombectomy-systems/angiojet-thrombectomy-system.html) - [pdf](https://www.bostonscientific.com/content/dam/bostonscientific/pi/portfolio-group/Thrombectomy/AngioJet/Resources/AngioJet%20Reference%20Guide%20(PI-282523-AC).pdf)
-
-Penumbra
-
-INARI
-- FlowTriever - [product page](https://www.inarimedical.com/flowtriever/)
-- ClotTriever - [product page](https://www.inarimedical.com/clottriever/)
-
