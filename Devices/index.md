@@ -50,10 +50,10 @@
 - Getinge Fusion Bioline - [product page](https://www.getinge.com/us/product-catalog/fusion-bioline/) - [pdf](https://www.getinge.com/dam/hospital/documents/english/mcv00106164_fusion_bioline_brochure_9-18-20-en-us.pdf)
 
 #### Aortic Devices  
-- GORE TAG - [product page](https://www.goremedical.com/products/ctagac) - [sizing](https://www.goremedical.com/resource/AY0381-EN2) - [TAAA planning](https://www.goremedical.com/resource/21194016-EN) - [TBAD planning](https://www.goremedical.com/resource/21193951-EN) - [deployment](https://www.goremedical.com/resource/AW0124-EN2)
-- GORE EXCLUDER
-  - AAA Endoprosthesis - [product page](https://www.goremedical.com/products/excluder) - [configurations](https://www.goremedical.com/resource/21189485-EN) - [sizing](https://www.goremedical.com/resource/2026108-EN)
-  - IBE - [product page](https://www.goremedical.com/products/excluder/ibe) - [configurations](https://www.goremedical.com/resource/21189485-EN) - [sizing](http://icaavcr.com/wp-content/uploads/2020/05/Gore-IBD-PLANING.pdf)
+- GORE 
+  - TAG - [product page](https://www.goremedical.com/products/ctagac) - [sizing](https://www.goremedical.com/resource/AY0381-EN2) - [TAAA planning](https://www.goremedical.com/resource/21194016-EN) - [TBAD planning](https://www.goremedical.com/resource/21193951-EN) - [deployment](https://www.goremedical.com/resource/AW0124-EN2)
+  - EXCLUDER AAA Endoprosthesis - [product page](https://www.goremedical.com/products/excluder) - [configurations](https://www.goremedical.com/resource/21189485-EN) - [sizing](https://www.goremedical.com/resource/2026108-EN)
+  - EXCLUDER IBE - [product page](https://www.goremedical.com/products/excluder/ibe) - [configurations](https://www.goremedical.com/resource/21189485-EN) - [sizing](http://icaavcr.com/wp-content/uploads/2020/05/Gore-IBD-PLANING.pdf)
 - Medtronic Aortic Stent Grafts
   - Endurant II - [product page](https://www.medtronic.com/us-en/healthcare-professionals/products/cardiovascular/aortic-stent-grafts/endurantii.html) - [sizing](https://www.medtronic.com/content/dam/medtronic-com/products/cardiovascular/aortic-stent-graft-products/endurant/documents/endurant-ii-sizing-sheet-us.pdf?bypassIM=true) - [pre-case planning](http://evareducation.com/file.php/1/Documents/Medtronic/Medtronic_Endurant_Precase_Planning_Final.pdf)
   - Valiant - [product page](https://www.medtronic.com/us-en/healthcare-professionals/products/cardiovascular/aortic-stent-grafts/valiant-thoracic-stent-graft-with-captivia-delivery-system.html) - [sizing](https://www.medtronic.com/content/dam/medtronic-com/products/cardiovascular/aortic-stent-graft-products/valiant/documents/valiant-stent-sizing-sheet-us.pdf#page=2?bypassIM=true)
