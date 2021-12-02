@@ -1,5 +1,13 @@
 ### Product IFU
 
+Cordis MYNXGRIP - [product page](https://www.cordis.com/en_us/cardiology/close/mynxgrip-vascular-closure-device.html) - [deployment](https://www.cordis.com/content/dam/cordis/web/documents/brochure/cordis-us-mynx-grip-vascular-closure-device-procedure-guide.pdf)
+
+Cordis EXOSEAL - [product page](https://www.cordis.com/en_us/cardiology/close/exoseal-vascular-closure-device.html)
+
+Terumo ANGIO-SEAL - [product page](https://www.terumois.com/products/closure/angio-seal-vascular-closure-devices/angio-seal.html)
+
+Abbott Perclose Pro-Glide - [product page](https://www.cardiovascular.abbott/us/en/hcp/products/peripheral-intervention/vessel-closure/perclose-proglide-suture-mediated-closure-system/overview.html)
+
 Terumo R2P - [product page](https://www.terumois.com/procedural-solutions/r2p-portfolio.html) - [pdf](https://www.terumois.com/content/dam/terumo-www/global-shared/terumo-tis/en-us/procedural/r2p/R2P-Portfolio-Brochure.pdf) - [case planning](https://www.terumois.com/content/dam/terumo-www/global-shared/terumo-tis/en-us/procedural/ravi/Radial-Case-Planning-Form.pdf)
 
 Philips Peripheral IVUS Catheters - [product page](https://www.usa.philips.com/healthcare/education-resources/technologies/igt/intravascular-ultrasound-ivus/peripheral/peripheral-ivus) - [pdf](https://www.documents.philips.com/assets/20180215/4df65d5bd1454f7ebf00a888015e4ada.pdf)
@@ -17,6 +25,8 @@ GORE VIABAHN - [product page](https://www.goremedical.com/products/viabahn) - [c
 GORE VIABAHN VBX - [product page](https://www.goremedical.com/products/vbx) - [configurations](https://www.goremedical.com/resource/AV1068-EN1)
 
 Getinge iCAST/Advanta V12 - [product page](https://www.getinge.com/int/product-catalog/advanta-v12-balloon-expandable-covered-stent) - [pdf](https://www.getinge.com/dam/hospital/documents/english/011529_v12_ld_one_page_ordering_sheet-en-non_us.pdf)
+
+Abbott Supera - [product page](https://www.cardiovascular.abbott/us/en/hcp/products/peripheral-intervention/supera-stent-system/overview.html) - [deployment](https://www.cardiovascular.abbott/content/dam/bss/divisionalsites/cv/pdf/guides/AV3651-193-SuperaDeplymnt-WebPstr-US_NC-X1a_M6a.pdf)
 
 BD LifeStar
 
