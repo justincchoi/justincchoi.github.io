@@ -56,8 +56,13 @@
   - Valiant - [product page](https://www.medtronic.com/us-en/healthcare-professionals/products/cardiovascular/aortic-stent-grafts/valiant-thoracic-stent-graft-with-captivia-delivery-system.html) - [sizing](https://www.medtronic.com/content/dam/medtronic-com/products/cardiovascular/aortic-stent-graft-products/valiant/documents/valiant-stent-sizing-sheet-us.pdf#page=2?bypassIM=true)
 - Cook Zenith Endovascular Grafts
   - Alpha Thoracic - [product page](https://aortic.cookmedical.com/thoracic/) - [sizing](https://mobileportfolio.cookmedical.com/public/16002/16002) - [IFU](https://www.cookmedical.com/data/IFU_PDF/I-ALPHA-THORACIC-442-03.PDF)
+  - TX2 Dissection - [sizing](https://www.cookmedical.com/data/resources/AI-D46657-EN-F_M3_1548273377837.pdf)
   - Fenestrated AAA - [product page](https://aortic.cookmedical.com/visceral/) - [sizing](https://mobileportfolio.cookmedical.com/public/12922/12922) - [IFU](https://www.cookmedical.com/data/IFU_PDF/IFU-FU_V3.PDF) - [FenCheck](https://fencheck.cookmedical.com/zenfencheck/)  
   - Flex AAA - [product page](https://aortic.cookmedical.com/abdominal/) - [sizing](https://mobileportfolio.cookmedical.com/public/10233/10233) - [IFU](https://www.cookmedical.com/data/IFU_PDF/T_ZAAAF_REV5.PDF)
+- Endologix
+  - AFX - [product page](https://endologix.com/united-states/products/afx/) - [sizing](http://www.v-tech.se/wp-content/uploads/mm1103_afx2_reference_guide.pdf)
+  - ALTO - [product page](https://endologix.com/united-states/products/alto/) - [sizing](https://endologix.com/wp-content/uploads/2021/01/MM2147-Rev-03-ALTO-Guide-Digital-Version_120220.pdf) - [pdf](https://endologix.com/wp-content/uploads/2021/10/390818414671-ALTO-Parts-List-US-MM2148-Rev-05.pdf)
+  - Ovation - [product page](https://endologix.com/international/products/ovation/) - [pdf](http://www.v-tech.se/wp-content/uploads/ovation_ix_parts_list_ous.pdf)
 
 #### Thrombectomy Devices
 - BSC AngioJet Peripheral Thrombectomy System - [product page](https://www.bostonscientific.com/en-US/products/thrombectomy-systems/angiojet-thrombectomy-system.html) - [pdf](https://www.bostonscientific.com/content/dam/bostonscientific/pi/portfolio-group/Thrombectomy/AngioJet/Resources/AngioJet%20Reference%20Guide%20(PI-282523-AC).pdf)
