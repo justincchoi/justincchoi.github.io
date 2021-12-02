@@ -1,12 +1,27 @@
 ### Product IFU
 
+#### Closure Devices  
+Abbott Perclose Pro-Glide - [product page](https://www.cardiovascular.abbott/us/en/hcp/products/peripheral-intervention/vessel-closure/perclose-proglide-suture-mediated-closure-system/overview.html)
+
 Cordis MYNXGRIP - [product page](https://www.cordis.com/en_us/cardiology/close/mynxgrip-vascular-closure-device.html) - [deployment](https://www.cordis.com/content/dam/cordis/web/documents/brochure/cordis-us-mynx-grip-vascular-closure-device-procedure-guide.pdf)
 
 Cordis EXOSEAL - [product page](https://www.cordis.com/en_us/cardiology/close/exoseal-vascular-closure-device.html)
 
 Terumo ANGIO-SEAL - [product page](https://www.terumois.com/products/closure/angio-seal-vascular-closure-devices/angio-seal.html)
 
-Abbott Perclose Pro-Glide - [product page](https://www.cardiovascular.abbott/us/en/hcp/products/peripheral-intervention/vessel-closure/perclose-proglide-suture-mediated-closure-system/overview.html)
+#### Coils and Plugs  
+Abbott Amplatzer Vascular Plugs - [product page](https://www.cardiovascular.abbott/int/en/hcp/products/peripheral-intervention/amplatzer-family-vascular-plugs.html) - [pdf](http://www.cardion.cz/file/1290/avpfam-specsheet-intl.pdf)
+
+BSC Interlock Coils - [product page](https://www.bostonscientific.com/en-US/products/embolization/interlock-and-idc-detachable-embolization-coils.html) - [Interlock-35](https://www.bostonscientific.com/content/dam/bostonscientific/pi/portfolio-group/embolization/interlock/Resources/Interlock-35-Brochure_PI-181206-AC.pdf) - [Interlock-18](https://www.bostonscientific.com/content/dam/bostonscientific/pi/portfolio-group/embolization/interlock/Resources/Interlock-18-Brochure_PI-177806-AB.pdf) - [IDC-18 Soft](https://www.bostonscientific.com/content/dam/bostonscientific/pi/portfolio-group/embolization/interlock/Resources/IDC-18-Soft-Brochure_PI-299412-AA.pdf)
+
+Cook Nester Embolization Coil - [product page](https://www.cookmedical.com/products/b092bc19-aecd-40aa-8146-430712000368/) - [sizing guide](https://www.cookmedical.com/data/resources/IR-D54849-EN-F_M3_1612287138403.pdf) - [pdf](https://www.cookmedical.com/data/resources/IR-D56670-EN-F_M3_1615905167295.pdf)
+
+Penumbra Ruby Coil - [product page](https://www.penumbrainc.com/peripheral-device/ruby-coil/) - [pdf](https://www.angiocalc.com/pdf/RubyCoil_Brochure_USA.pdf)
+
+#### Grafts  
+GORE PROPATEN Vascular Graft - [product page](https://www.goremedical.com/products/propaten) - [pdf](https://www.goremedical.com/resource/AY0065-EN1)
+
+Getinge Fusion Bioline - [product page](https://www.getinge.com/us/product-catalog/fusion-bioline/)
 
 Terumo R2P - [product page](https://www.terumois.com/procedural-solutions/r2p-portfolio.html) - [pdf](https://www.terumois.com/content/dam/terumo-www/global-shared/terumo-tis/en-us/procedural/r2p/R2P-Portfolio-Brochure.pdf) - [case planning](https://www.terumois.com/content/dam/terumo-www/global-shared/terumo-tis/en-us/procedural/ravi/Radial-Case-Planning-Form.pdf)
 
@@ -14,11 +29,8 @@ Philips Peripheral IVUS Catheters - [product page](https://www.usa.philips.com/h
 
 Edwards Fogarty Catheters - [product page](https://www.edwards.com/devices/catheters/clot-management) - [pdf](https://edwardsprod.blob.core.windows.net/media/Br/devices/catheters/clot%20management/fogartyclotmanagement.pdf)
 
-Abbott Amplatzer Vascular Plugs - [product page](https://www.cardiovascular.abbott/int/en/hcp/products/peripheral-intervention/amplatzer-family-vascular-plugs.html) - [pdf](http://www.cardion.cz/file/1290/avpfam-specsheet-intl.pdf)
 
-GORE PROPATEN Vascular Graft - [product page](https://www.goremedical.com/products/propaten) - [pdf](https://www.goremedical.com/resource/AY0065-EN1)
 
-Getinge Fusion Bioline - [product page](https://www.getinge.com/us/product-catalog/fusion-bioline/)
 
 GORE VIABAHN - [product page](https://www.goremedical.com/products/viabahn) - [configurations](https://www.goremedical.com/products/viabahn/specifications-us)
 
