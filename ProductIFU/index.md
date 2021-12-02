@@ -1,54 +1,33 @@
 ### Product IFU
 
 #### Closure Devices  
-Abbott Perclose Pro-Glide - [product page](https://www.cardiovascular.abbott/us/en/hcp/products/peripheral-intervention/vessel-closure/perclose-proglide-suture-mediated-closure-system/overview.html)
-
-Cordis MYNXGRIP - [product page](https://www.cordis.com/en_us/cardiology/close/mynxgrip-vascular-closure-device.html) - [deployment](https://www.cordis.com/content/dam/cordis/web/documents/brochure/cordis-us-mynx-grip-vascular-closure-device-procedure-guide.pdf)
-
-Cordis EXOSEAL - [product page](https://www.cordis.com/en_us/cardiology/close/exoseal-vascular-closure-device.html)
-
-Terumo ANGIO-SEAL - [product page](https://www.terumois.com/products/closure/angio-seal-vascular-closure-devices/angio-seal.html)
-
+- Abbott Perclose Pro-Glide - [product page](https://www.cardiovascular.abbott/us/en/hcp/products/peripheral-intervention/vessel-closure/perclose-proglide-suture-mediated-closure-system/overview.html)
+- Cordis MYNXGRIP - [product page](https://www.cordis.com/en_us/cardiology/close/mynxgrip-vascular-closure-device.html) - [deployment](https://www.cordis.com/content/dam/cordis/web/documents/brochure/cordis-us-mynx-grip-vascular-closure-device-procedure-guide.pdf)
+- Cordis EXOSEAL - [product page](https://www.cordis.com/en_us/cardiology/close/exoseal-vascular-closure-device.html)
+- Terumo ANGIO-SEAL - [product page](https://www.terumois.com/products/closure/angio-seal-vascular-closure-devices/angio-seal.html)
 
 #### Stents  
-BSC Carotid Wallstent - [product page](https://www.bostonscientific.com/en-US/products/stents--vascular/wallstent-endoprosthesis/Carotid_WALLSTENT_Monorail_Endoprosthesis.html)
-
-Silk Road TCAR - [product page](https://silkroadmed.com/healthcare-professionals/) - [pdf](https://silkroadmed.com/wp-content/uploads/2021/02/AP00499.D-TCAR-Brochure-So-Much-More.pdf) - [exposure/access](https://silkroadmed.com/wp-content/uploads/2020/09/SRM_Exposure_and_Access_sheet.pdf)
-
-GORE VIABAHN - [product page](https://www.goremedical.com/products/viabahn) - [configurations](https://www.goremedical.com/products/viabahn/specifications-us)
-
-GORE VIABAHN VBX - [product page](https://www.goremedical.com/products/vbx) - [configurations](https://www.goremedical.com/resource/AV1068-EN1)
-
-Getinge iCAST/Advanta V12 - [product page](https://www.getinge.com/int/product-catalog/advanta-v12-balloon-expandable-covered-stent) - [pdf](https://www.getinge.com/dam/hospital/documents/english/011529_v12_ld_one_page_ordering_sheet-en-non_us.pdf)
-
-Abbott Supera - [product page](https://www.cardiovascular.abbott/us/en/hcp/products/peripheral-intervention/supera-stent-system/overview.html) - [deployment](https://www.cardiovascular.abbott/content/dam/bss/divisionalsites/cv/pdf/guides/AV3651-193-SuperaDeplymnt-WebPstr-US_NC-X1a_M6a.pdf)
-
-BD LifeStar - [product page](https://www.bd.com/en-us/offerings/capabilities/vascular-surgery/vascular-stenting/vascular-stents/lifestar-vascular-stent-system)
-
-BD LifeStent - [product page](https://www.bd.com/en-us/offerings/capabilities/vascular-surgery/vascular-stenting/vascular-stents/lifestent-5f-vascular-stent-system) - [pdf](https://www.bd.com/assets/documents/PDH/BDPI_LifeStent-5F_BPV-STNT-0717-0061-3_PF10661_Brochure.pdf)
-
-BD Venovo - [product page](https://www.bd.com/en-us/offerings/capabilities/vascular-surgery/vascular-stenting/venous-stents/venovo-venous-stent-system) - [pdf](https://www.bd.com/assets/documents/PDH/BD_BARD_Venovo-Brochure_EN.pdf)
-
-Medtronic Abre - [product page](https://www.medtronic.com/us-en/healthcare-professionals/products/cardiovascular/deep-venous/abre-venous-stent.html)
-
-BSC Venous Wallstent - [product page](https://www.bostonscientific.com/en-US/products/stents--vascular/wallstent-endoprosthesis/venous-wallstent.html) - [pdf](https://www.bostonscientific.com/content/dam/bostonscientific/pi/portfolio-group/Stents/WALLSTENT-Endo/Resources/Wallstent_Venous_Brochure_(PI-781701-AA).pdf)
-
+- BSC Carotid Wallstent - [product page](https://www.bostonscientific.com/en-US/products/stents--vascular/wallstent-endoprosthesis/Carotid_WALLSTENT_Monorail_Endoprosthesis.html)
+- Silk Road TCAR - [product page](https://silkroadmed.com/healthcare-professionals/) - [pdf](https://silkroadmed.com/wp-content/uploads/2021/02/AP00499.D-TCAR-Brochure-So-Much-More.pdf) - [exposure/access](https://silkroadmed.com/wp-content/uploads/2020/09/SRM_Exposure_and_Access_sheet.pdf)
+- GORE VIABAHN - [product page](https://www.goremedical.com/products/viabahn) - [configurations](https://www.goremedical.com/products/viabahn/specifications-us)
+- GORE VIABAHN VBX - [product page](https://www.goremedical.com/products/vbx) - [configurations](https://www.goremedical.com/resource/AV1068-EN1)
+- Getinge iCAST/Advanta V12 - [product page](https://www.getinge.com/int/product-catalog/advanta-v12-balloon-expandable-covered-stent) - [pdf](https://www.getinge.com/dam/hospital/documents/english/011529_v12_ld_one_page_ordering_sheet-en-non_us.pdf)
+- Abbott Supera - [product page](https://www.cardiovascular.abbott/us/en/hcp/products/peripheral-intervention/supera-stent-system/overview.html) - [deployment](https://www.cardiovascular.abbott/content/dam/bss/divisionalsites/cv/pdf/guides/AV3651-193-SuperaDeplymnt-WebPstr-US_NC-X1a_M6a.pdf)
+- BD LifeStar - [product page](https://www.bd.com/en-us/offerings/capabilities/vascular-surgery/vascular-stenting/vascular-stents/lifestar-vascular-stent-system)
+- BD LifeStent - [product page](https://www.bd.com/en-us/offerings/capabilities/vascular-surgery/vascular-stenting/vascular-stents/lifestent-5f-vascular-stent-system) - [pdf](https://www.bd.com/assets/documents/PDH/BDPI_LifeStent-5F_BPV-STNT-0717-0061-3_PF10661_Brochure.pdf)
+- BD Venovo - [product page](https://www.bd.com/en-us/offerings/capabilities/vascular-surgery/vascular-stenting/venous-stents/venovo-venous-stent-system) - [pdf](https://www.bd.com/assets/documents/PDH/BD_BARD_Venovo-Brochure_EN.pdf)
+- Medtronic Abre - [product page](https://www.medtronic.com/us-en/healthcare-professionals/products/cardiovascular/deep-venous/abre-venous-stent.html)
+- BSC Venous Wallstent - [product page](https://www.bostonscientific.com/en-US/products/stents--vascular/wallstent-endoprosthesis/venous-wallstent.html) - [pdf](https://www.bostonscientific.com/content/dam/bostonscientific/pi/portfolio-group/Stents/WALLSTENT-Endo/Resources/Wallstent_Venous_Brochure_(PI-781701-AA).pdf)
 
 #### Coils and Plugs  
-Abbott Amplatzer Vascular Plugs - [product page](https://www.cardiovascular.abbott/int/en/hcp/products/peripheral-intervention/amplatzer-family-vascular-plugs.html) - [pdf](http://www.cardion.cz/file/1290/avpfam-specsheet-intl.pdf)
-
-BSC Interlock Coils - [product page](https://www.bostonscientific.com/en-US/products/embolization/interlock-and-idc-detachable-embolization-coils.html) - [Interlock-35](https://www.bostonscientific.com/content/dam/bostonscientific/pi/portfolio-group/embolization/interlock/Resources/Interlock-35-Brochure_PI-181206-AC.pdf) - [Interlock-18](https://www.bostonscientific.com/content/dam/bostonscientific/pi/portfolio-group/embolization/interlock/Resources/Interlock-18-Brochure_PI-177806-AB.pdf) - [IDC-18 Soft](https://www.bostonscientific.com/content/dam/bostonscientific/pi/portfolio-group/embolization/interlock/Resources/IDC-18-Soft-Brochure_PI-299412-AA.pdf)
-
-Cook Nester Embolization Coil - [product page](https://www.cookmedical.com/products/b092bc19-aecd-40aa-8146-430712000368/) - [sizing](https://www.cookmedical.com/data/resources/IR-D54849-EN-F_M3_1612287138403.pdf) - [pdf](https://www.cookmedical.com/data/resources/IR-D56670-EN-F_M3_1615905167295.pdf)
-
-Penumbra Ruby Coil - [product page](https://www.penumbrainc.com/peripheral-device/ruby-coil/) - [pdf](https://www.angiocalc.com/pdf/RubyCoil_Brochure_USA.pdf)
-
+- Abbott Amplatzer Vascular Plugs - [product page](https://www.cardiovascular.abbott/int/en/hcp/products/peripheral-intervention/amplatzer-family-vascular-plugs.html) - [pdf](http://www.cardion.cz/file/1290/avpfam-specsheet-intl.pdf)
+- BSC Interlock Coils - [product page](https://www.bostonscientific.com/en-US/products/embolization/interlock-and-idc-detachable-embolization-coils.html) - [Interlock-35](https://www.bostonscientific.com/content/dam/bostonscientific/pi/portfolio-group/embolization/interlock/Resources/Interlock-35-Brochure_PI-181206-AC.pdf) - [Interlock-18](https://www.bostonscientific.com/content/dam/bostonscientific/pi/portfolio-group/embolization/interlock/Resources/Interlock-18-Brochure_PI-177806-AB.pdf) - [IDC-18 Soft](https://www.bostonscientific.com/content/dam/bostonscientific/pi/portfolio-group/embolization/interlock/Resources/IDC-18-Soft-Brochure_PI-299412-AA.pdf)
+- Cook Nester Embolization Coil - [product page](https://www.cookmedical.com/products/b092bc19-aecd-40aa-8146-430712000368/) - [sizing](https://www.cookmedical.com/data/resources/IR-D54849-EN-F_M3_1612287138403.pdf) - [pdf](https://www.cookmedical.com/data/resources/IR-D56670-EN-F_M3_1615905167295.pdf)
+- Penumbra Ruby Coil - [product page](https://www.penumbrainc.com/peripheral-device/ruby-coil/) - [pdf](https://www.angiocalc.com/pdf/RubyCoil_Brochure_USA.pdf)
 
 #### Grafts  
-GORE PROPATEN Vascular Graft - [product page](https://www.goremedical.com/products/propaten) - [pdf](https://www.goremedical.com/resource/AY0065-EN1)
-
-Getinge Fusion Bioline - [product page](https://www.getinge.com/us/product-catalog/fusion-bioline/)
-
+- GORE PROPATEN Vascular Graft - [product page](https://www.goremedical.com/products/propaten) - [pdf](https://www.goremedical.com/resource/AY0065-EN1)
+- Getinge Fusion Bioline - [product page](https://www.getinge.com/us/product-catalog/fusion-bioline/)
 
 #### Aortic Devices  
 GORE TAG - [product page](https://www.goremedical.com/products/ctagac) - [sizing](https://www.goremedical.com/resource/AY0381-EN2) - [TAAA planning](https://www.goremedical.com/resource/21194016-EN) - [TBAD planning](https://www.goremedical.com/resource/21193951-EN) - [deployment](https://www.goremedical.com/resource/AW0124-EN2)
@@ -66,24 +45,14 @@ Cook Zenith Endovascular Grafts
 - Fenestrated AAA - [product page](https://aortic.cookmedical.com/visceral/) - [sizing](https://mobileportfolio.cookmedical.com/public/12922/12922) - [IFU](https://www.cookmedical.com/data/IFU_PDF/IFU-FU_V3.PDF) - [FenCheck](https://fencheck.cookmedical.com/zenfencheck/)  
 - Flex AAA - [product page](https://aortic.cookmedical.com/abdominal/) - [sizing](https://mobileportfolio.cookmedical.com/public/10233/10233) - [IFU](https://www.cookmedical.com/data/IFU_PDF/T_ZAAAF_REV5.PDF)
 
-Terumo R2P - [product page](https://www.terumois.com/procedural-solutions/r2p-portfolio.html) - [pdf](https://www.terumois.com/content/dam/terumo-www/global-shared/terumo-tis/en-us/procedural/r2p/R2P-Portfolio-Brochure.pdf) - [case planning](https://www.terumois.com/content/dam/terumo-www/global-shared/terumo-tis/en-us/procedural/ravi/Radial-Case-Planning-Form.pdf)
-
-
 #### Thrombectomy Devices
-BSC AngioJet Peripheral Thrombectomy System - [product page](https://www.bostonscientific.com/en-US/products/thrombectomy-systems/angiojet-thrombectomy-system.html) - [pdf](https://www.bostonscientific.com/content/dam/bostonscientific/pi/portfolio-group/Thrombectomy/AngioJet/Resources/AngioJet%20Reference%20Guide%20(PI-282523-AC).pdf)
-
-Penumbra Indigo - [product page](https://www.penumbrainc.com/peripheral-device/indigo-system/)
-
-INARI
-- FlowTriever - [product page](https://www.inarimedical.com/flowtriever/)
-- ClotTriever - [product page](https://www.inarimedical.com/clottriever/)
-
+- BSC AngioJet Peripheral Thrombectomy System - [product page](https://www.bostonscientific.com/en-US/products/thrombectomy-systems/angiojet-thrombectomy-system.html) - [pdf](https://www.bostonscientific.com/content/dam/bostonscientific/pi/portfolio-group/Thrombectomy/AngioJet/Resources/AngioJet%20Reference%20Guide%20(PI-282523-AC).pdf)
+- Penumbra Indigo - [product page](https://www.penumbrainc.com/peripheral-device/indigo-system/)
+- INARI - [FlowTriever](https://www.inarimedical.com/flowtriever/) - [ClotTriever](https://www.inarimedical.com/clottriever/)
 
 #### Misc
-Philips Peripheral IVUS Catheters - [product page](https://www.usa.philips.com/healthcare/education-resources/technologies/igt/intravascular-ultrasound-ivus/peripheral/peripheral-ivus) - [pdf](https://www.documents.philips.com/assets/20180215/4df65d5bd1454f7ebf00a888015e4ada.pdf)
-
-Edwards Fogarty Catheters - [product page](https://www.edwards.com/devices/catheters/clot-management) - [pdf](https://edwardsprod.blob.core.windows.net/media/Br/devices/catheters/clot%20management/fogartyclotmanagement.pdf)
-
-BD Denali Vena Cava Filter - [product page](https://www.bd.com/en-us/offerings/capabilities/vascular-surgery/vascular-occlusion/ivc-filters/denali-vena-cava-filter) - [pdf, femoral](https://www.bardpv.com/uploads/BDPI_Denali_BAW5410500R6_Femoral_IFU.pdf) - [pdf, jugular](https://www.bd.com/assets/documents/guides/directions-for-use/PI_PV_Denali-Vena-Cava-Filter_DF_MULTI.pdf)
-
-Cook Günther Tulip Vena Cava Filter - [product page](https://www.cookmedical.com/products/ea845922-f1f5-4038-a4bc-f1a14e768a2d/) - [pdf](https://www.cookmedical.com/data/resources/PIV-BM-GTVCFNDS-EN-200909.pdf) - [deployment](https://www.cookmedical.com/data/resources/D14960-EN-F_M3.pdf)
+- Terumo R2P - [product page](https://www.terumois.com/procedural-solutions/r2p-portfolio.html) - [pdf](https://www.terumois.com/content/dam/terumo-www/global-shared/terumo-tis/en-us/procedural/r2p/R2P-Portfolio-Brochure.pdf) - [case planning](https://www.terumois.com/content/dam/terumo-www/global-shared/terumo-tis/en-us/procedural/ravi/Radial-Case-Planning-Form.pdf)
+- Philips Peripheral IVUS Catheters - [product page](https://www.usa.philips.com/healthcare/education-resources/technologies/igt/intravascular-ultrasound-ivus/peripheral/peripheral-ivus) - [pdf](https://www.documents.philips.com/assets/20180215/4df65d5bd1454f7ebf00a888015e4ada.pdf)
+- Edwards Fogarty Catheters - [product page](https://www.edwards.com/devices/catheters/clot-management) - [pdf](https://edwardsprod.blob.core.windows.net/media/Br/devices/catheters/clot%20management/fogartyclotmanagement.pdf)
+- BD Denali Vena Cava Filter - [product page](https://www.bd.com/en-us/offerings/capabilities/vascular-surgery/vascular-occlusion/ivc-filters/denali-vena-cava-filter) - [pdf, femoral](https://www.bardpv.com/uploads/BDPI_Denali_BAW5410500R6_Femoral_IFU.pdf) - [pdf, jugular](https://www.bd.com/assets/documents/guides/directions-for-use/PI_PV_Denali-Vena-Cava-Filter_DF_MULTI.pdf)
+- Cook Günther Tulip Vena Cava Filter - [product page](https://www.cookmedical.com/products/ea845922-f1f5-4038-a4bc-f1a14e768a2d/) - [pdf](https://www.cookmedical.com/data/resources/PIV-BM-GTVCFNDS-EN-200909.pdf) - [deployment](https://www.cookmedical.com/data/resources/D14960-EN-F_M3.pdf)
