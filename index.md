@@ -1,6 +1,6 @@
 ### Vascular Surgery Resources
 
-[Product IFUs](https://justincchoi.github.io/Devices/)
+[Devices](https://justincchoi.github.io/Devices/)
 
 [Landmark Papers](https://justincchoi.github.io/VSPapers/)
 
