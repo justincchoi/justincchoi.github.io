@@ -35,7 +35,7 @@
     - [FenCheck](https://fencheck.cookmedical.com/zenfencheck/)  
   - Flex AAA - [product page](https://aortic.cookmedical.com/abdominal/)
     - [sizing](https://mobileportfolio.cookmedical.com/public/10233/10233)
-    - [IFU](https://www.cookmedical.com/data/IFU_PDF/T_ZAAAF_REV5.PDF)
+    - [planning](https://github.com/justincchoi/justincchoi.github.io/blob/main/AorticSizing/Cook%20Zenith%20Flex%20AAA%20Planning%20and%20Sizing.pdf)
 - Endologix
   - AFX - [product page](https://endologix.com/united-states/products/afx/)
     - [sizing](http://www.v-tech.se/wp-content/uploads/mm1103_afx2_reference_guide.pdf)
