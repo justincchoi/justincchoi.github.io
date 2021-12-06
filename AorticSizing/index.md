@@ -1,7 +1,7 @@
 ### Aortic Endograft Sizing/Deployment Guides
 
 #### Aortic Devices  
-- GORE 
+- GORE - [sizing card](https://github.com/justincchoi/justincchoi.github.io/blob/abeb3de6aecb1490ee8f67fc54dfb192edd74ffe/AorticSizing/GORE%20Aortic%20Sizing.pdf)
   - TAG - [product page](https://www.goremedical.com/products/ctagac)
     - [sizing](https://www.goremedical.com/resource/AY0381-EN2)
     - [TAAA planning](https://www.goremedical.com/resource/21194016-EN)
