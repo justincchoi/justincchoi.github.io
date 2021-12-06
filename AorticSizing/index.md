@@ -16,7 +16,7 @@
 - Medtronic Aortic Stent Grafts
   - Endurant II - [product page](https://www.medtronic.com/us-en/healthcare-professionals/products/cardiovascular/aortic-stent-grafts/endurantii.html)
     - [sizing](https://www.medtronic.com/content/dam/medtronic-com/products/cardiovascular/aortic-stent-graft-products/endurant/documents/endurant-ii-sizing-sheet-us.pdf?bypassIM=true)
-    - [pre-case planning](http://evareducation.com/file.php/1/Documents/Medtronic/Medtronic_Endurant_Precase_Planning_Final.pdf)
+    - [pre-case planning](https://github.com/justincchoi/justincchoi.github.io/blob/d26d698e14a013704cc160ebfb226449fb623516/AorticSizing/Medtronic%20Endurant%20Precase%20Planning.pdf)
   - Valiant - [product page](https://www.medtronic.com/us-en/healthcare-professionals/products/cardiovascular/aortic-stent-grafts/valiant-thoracic-stent-graft-with-captivia-delivery-system.html)
     - [sizing](https://www.medtronic.com/content/dam/medtronic-com/products/cardiovascular/aortic-stent-graft-products/valiant/documents/valiant-stent-sizing-sheet-us.pdf#page=2?bypassIM=true)
 - Cook Zenith Endovascular Grafts - [pocket reference](https://www.cookmedical.com/data/resources/AI-D22611-EN-F_M3_2016-01-27_111103.pdf)
