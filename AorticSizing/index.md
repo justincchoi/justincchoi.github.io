@@ -26,6 +26,7 @@
   - Alpha Thoracic - [product page](https://aortic.cookmedical.com/thoracic/)
     - [sizing](https://mobileportfolio.cookmedical.com/public/16002/16002)
     - [IFU](https://www.cookmedical.com/data/IFU_PDF/I-ALPHA-THORACIC-442-03.PDF)
+    - [deployment](https://players.brightcove.net/309212793001/default_default/index.html?videoId=5448340765001)
   - TX2 Dissection
     - [sizing](https://www.cookmedical.com/data/resources/AI-D46657-EN-F_M3_1548273377837.pdf)
   - Fenestrated AAA - [product page](https://aortic.cookmedical.com/visceral/)
