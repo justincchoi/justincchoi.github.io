@@ -62,7 +62,7 @@
   - Alpha Thoracic - [product page](https://aortic.cookmedical.com/thoracic/) - [sizing](https://mobileportfolio.cookmedical.com/public/16002/16002) - [IFU](https://www.cookmedical.com/data/IFU_PDF/I-ALPHA-THORACIC-442-03.PDF) - [deployment](https://players.brightcove.net/309212793001/default_default/index.html?videoId=5448340765001)
   - TX2 Dissection - [sizing](https://www.cookmedical.com/data/resources/AI-D46657-EN-F_M3_1548273377837.pdf)
   - Fenestrated AAA - [product page](https://aortic.cookmedical.com/visceral/) - [sizing](https://mobileportfolio.cookmedical.com/public/12922/12922) - [IFU](https://www.cookmedical.com/data/IFU_PDF/IFU-FU_V3.PDF) - [FenCheck](https://fencheck.cookmedical.com/zenfencheck/)  
-  - Flex AAA - [product page](https://aortic.cookmedical.com/abdominal/) - [sizing](https://mobileportfolio.cookmedical.com/public/10233/10233) - [planning](https://github.com/justincchoi/justincchoi.github.io/blob/2396e7061d97e828db550bf20a2b9992a1f6a067/Devices/Cook%20Zenith%20Flex%20AAA%20Planning%20and%20Sizing.pdf)
+  - Flex AAA - [product page](https://aortic.cookmedical.com/abdominal/) - [sizing](https://mobileportfolio.cookmedical.com/public/10233/10233) - [planning](https://github.com/justincchoi/justincchoi.github.io/blob/6840ec5933c937200bb5d877feced48a12245b8e/Devices/Cook%20Zenith%20Flex%20AAA%20Planning%20and%20Sizing.pdf)
 - Endologix
   - AFX - [product page](https://endologix.com/united-states/products/afx/) - [sizing](http://www.v-tech.se/wp-content/uploads/mm1103_afx2_reference_guide.pdf)
     - [AFX2 deployment](https://www.youtube.com/watch?v=QUdpM-17nmA)
