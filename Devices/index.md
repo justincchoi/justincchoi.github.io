@@ -74,7 +74,7 @@
   - Ovation - [product page](https://endologix.com/international/products/ovation/) - [pdf](http://www.v-tech.se/wp-content/uploads/ovation_ix_parts_list_ous.pdf) - [deployment](https://www.youtube.com/watch?v=e4Wkqwl7TSM)
 
 #### Thrombectomy Devices
-- BSC AngioJet Peripheral Thrombectomy System - [product page](https://www.bostonscientific.com/en-US/products/thrombectomy-systems/angiojet-thrombectomy-system.html) - [pdf](https://www.bostonscientific.com/content/dam/bostonscientific/pi/portfolio-group/Thrombectomy/AngioJet/Resources/AngioJet%20Reference%20Guide%20(PI-282523-AC).pdf)
+- BSC AngioJet Peripheral Thrombectomy System - [product page](https://www.bostonscientific.com/en-US/products/thrombectomy-systems/angiojet-thrombectomy-system.html) - [pdf](https://www.bostonscientific.com/content/dam/bostonscientific/pi/portfolio-group/Thrombectomy/AngioJet/Resources/AngioJet%20Reference%20Guide%20(PI-282523-AC).pdf) - [set-up](https://www.bostonscientific.com/content/dam/bostonscientific/pi/general/c-19/product-guides/angiojet/AngioJet%20Set-Up%20Guide%20for%20Lab%20Use%20(PI-548404-AA).pdf)
 - Penumbra Indigo - [product page](https://www.penumbrainc.com/peripheral-device/indigo-system/)
 - INARI - [FlowTriever](https://www.inarimedical.com/flowtriever/) - [ClotTriever](https://www.inarimedical.com/clottriever/)
 
@@ -94,4 +94,3 @@
 - Shockwave
   - M5 - [product page](https://shockwavemedical.com/clinicians/international/peripheral/product-specs-resources/shockwave-m5/) - [pdf](https://shockwavemedical.com/wp-content/uploads/2020/01/SPL-62800-Rev-B-M5-Spec-Sheet-A4.pdf)
   - S4 - [product page](https://shockwavemedical.com/clinicians/international/peripheral/shockwave-s4/) - [pdf](https://shockwavemedical.com/wp-content/uploads/2019/06/SPL-62826-Rev.-A-S4-Tech-Sheet_A4.pdf)
-
