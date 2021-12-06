@@ -58,7 +58,7 @@
 - Medtronic Aortic Stent Grafts
   - Endurant II - [product page](https://www.medtronic.com/us-en/healthcare-professionals/products/cardiovascular/aortic-stent-grafts/endurantii.html) - [sizing](https://www.medtronic.com/content/dam/medtronic-com/products/cardiovascular/aortic-stent-graft-products/endurant/documents/endurant-ii-sizing-sheet-us.pdf?bypassIM=true) - [pre-case planning](http://evareducation.com/file.php/1/Documents/Medtronic/Medtronic_Endurant_Precase_Planning_Final.pdf)
   - Valiant - [product page](https://www.medtronic.com/us-en/healthcare-professionals/products/cardiovascular/aortic-stent-grafts/valiant-thoracic-stent-graft-with-captivia-delivery-system.html) - [sizing](https://www.medtronic.com/content/dam/medtronic-com/products/cardiovascular/aortic-stent-graft-products/valiant/documents/valiant-stent-sizing-sheet-us.pdf#page=2?bypassIM=true)
-- Cook Zenith Endovascular Grafts
+- Cook Zenith Endovascular Grafts - [physician's guide](https://www.cookmedical.com/data/resources/AI-D22611-EN-F_M3_2016-01-27_111103.pdf)
   - Alpha Thoracic - [product page](https://aortic.cookmedical.com/thoracic/) - [sizing](https://mobileportfolio.cookmedical.com/public/16002/16002) - [IFU](https://www.cookmedical.com/data/IFU_PDF/I-ALPHA-THORACIC-442-03.PDF)
   - TX2 Dissection - [sizing](https://www.cookmedical.com/data/resources/AI-D46657-EN-F_M3_1548273377837.pdf)
   - Fenestrated AAA - [product page](https://aortic.cookmedical.com/visceral/) - [sizing](https://mobileportfolio.cookmedical.com/public/12922/12922) - [IFU](https://www.cookmedical.com/data/IFU_PDF/IFU-FU_V3.PDF) - [FenCheck](https://fencheck.cookmedical.com/zenfencheck/)  
