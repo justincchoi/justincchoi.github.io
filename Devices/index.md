@@ -7,6 +7,7 @@
 - Cook Flexor Ansel Sheaths - [pdf](https://www.cookmedical.com/data/resources/PI-D54042-EN-F_M3_1580928539035.pdf)
 - Terumo Pinnacle Destination Sheaths - [product page](https://www.terumois.com/products/access/pinnacle-destination.html) - [pdf](https://www.terumois.com/content/dam/terumopublic/products/pinnacle/Pinnacle-Family-Brochure.pdf)
 - Terumo Glidesheath Slender - [product page](https://www.terumois.com/products/access/glidesheath-slender.html) - [pdf](https://www.terumois.com/content/dam/terumo-www/global-shared/terumo-tis/en-us/product-assets/glidesheath-slender/Glidesheath-Slender-Pocket-Guide.pdf)
+  - Pedal/Radial Access Cocktail - 200 µg nitroglycerin, 2.5 mg verapamil, 3000 U heparin
 - GORE DrySeal Sheath - [product page](https://www.goremedical.com/products/dryseal) - [pdf](https://www.goremedical.com/resource/AV0496-EN3)
 - Cook CXI Support Catheter - [pdf](https://www.cookmedical.com/data/resources/AI-D45648-EN-F_M3_1553106061037.pdf)
 - Philips Quick-Cross Support Catheter - [product page](https://www.usa.philips.com/healthcare/product/HCIGTDQKCRCGWR/quick-cross-support-catheter) - [pdf](https://www.documents.philips.com/assets/20180716/04e0c93da0434e638c7ba91f015db4b7.pdf)
