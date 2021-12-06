@@ -29,9 +29,6 @@
 - BD LifeStent - [product page](https://www.bd.com/en-us/offerings/capabilities/vascular-surgery/vascular-stenting/vascular-stents/lifestent-5f-vascular-stent-system) - [pdf](https://www.bd.com/assets/documents/PDH/BDPI_LifeStent-5F_BPV-STNT-0717-0061-3_PF10661_Brochure.pdf)
 - BSC Express - [product page](https://www.bostonscientific.com/en-US/products/stents--vascular/Express_LD_Iliac_and_Biliary_Stent_System.html) - [pdf](https://www.bostonscientific.com/content/dam/bostonscientific/pi/portfolio-group/Stents/Express%20LD%20Iliac%20and%20Biliary%20Premounted%20Stent%20System/Resources/ExpressLD_product_codes.pdf)
 - Cook Zilver PTX - [product page](https://www.cookmedical.com/products/224e3666-308f-4244-8695-6fd23bbd671c/) - [pdf](https://www.cookmedical.com/data/resources/PI-D56387-EN-F_M3_1602699734616.pdf)
-- BD Venovo - [product page](https://www.bd.com/en-us/offerings/capabilities/vascular-surgery/vascular-stenting/venous-stents/venovo-venous-stent-system) - [pdf](https://www.bd.com/assets/documents/PDH/BD_BARD_Venovo-Brochure_EN.pdf)
-- Medtronic Abre - [product page](https://www.medtronic.com/us-en/healthcare-professionals/products/cardiovascular/deep-venous/abre-venous-stent.html)
-- BSC Venous Wallstent - [product page](https://www.bostonscientific.com/en-US/products/stents--vascular/wallstent-endoprosthesis/venous-wallstent.html) - [pdf](https://www.bostonscientific.com/content/dam/bostonscientific/pi/portfolio-group/Stents/WALLSTENT-Endo/Resources/Wallstent_Venous_Brochure_(PI-781701-AA).pdf)
 
 #### Closure Devices  
 - Abbott Perclose Pro-Glide - [product page](https://www.cardiovascular.abbott/us/en/hcp/products/peripheral-intervention/vessel-closure/perclose-proglide-suture-mediated-closure-system/overview.html)
@@ -75,9 +72,16 @@
 - Penumbra Indigo - [product page](https://www.penumbrainc.com/peripheral-device/indigo-system/)
 - INARI - [FlowTriever](https://www.inarimedical.com/flowtriever/) - [ClotTriever](https://www.inarimedical.com/clottriever/)
 
-#### Misc
-- Philips Peripheral IVUS Catheters - [product page](https://www.usa.philips.com/healthcare/education-resources/technologies/igt/intravascular-ultrasound-ivus/peripheral/peripheral-ivus) - [pdf](https://www.documents.philips.com/assets/20180215/4df65d5bd1454f7ebf00a888015e4ada.pdf)
-- Edwards Fogarty Catheters - [product page](https://www.edwards.com/devices/catheters/clot-management) - [pdf](https://edwardsprod.blob.core.windows.net/media/Br/devices/catheters/clot%20management/fogartyclotmanagement.pdf)
+#### Venous
 - BD Denali Vena Cava Filter - [product page](https://www.bd.com/en-us/offerings/capabilities/vascular-surgery/vascular-occlusion/ivc-filters/denali-vena-cava-filter) - [pdf (femoral)](https://www.bardpv.com/uploads/BDPI_Denali_BAW5410500R6_Femoral_IFU.pdf) - [pdf (jugular)](https://www.bd.com/assets/documents/guides/directions-for-use/PI_PV_Denali-Vena-Cava-Filter_DF_MULTI.pdf)
 - Cook Celect Platinum Vena Cava Filter -- [product page](https://www.cookmedical.com/products/3901d990-413b-493d-8445-44a72334cb6d/) - [pdf](https://www.cookmedical.com/data/resources/D14957-EN-F_M3.pdf)
 - Cook Günther Tulip Vena Cava Filter - [product page](https://www.cookmedical.com/products/ea845922-f1f5-4038-a4bc-f1a14e768a2d/) - [pdf](https://www.cookmedical.com/data/resources/PIV-BM-GTVCFNDS-EN-200909.pdf) - [deployment](https://www.cookmedical.com/data/resources/D14960-EN-F_M3.pdf)
+- BD Venovo - [product page](https://www.bd.com/en-us/offerings/capabilities/vascular-surgery/vascular-stenting/venous-stents/venovo-venous-stent-system) - [pdf](https://www.bd.com/assets/documents/PDH/BD_BARD_Venovo-Brochure_EN.pdf)
+- Medtronic Abre - [product page](https://www.medtronic.com/us-en/healthcare-professionals/products/cardiovascular/deep-venous/abre-venous-stent.html)
+- BSC Venous Wallstent - [product page](https://www.bostonscientific.com/en-US/products/stents--vascular/wallstent-endoprosthesis/venous-wallstent.html) - [pdf](https://www.bostonscientific.com/content/dam/bostonscientific/pi/portfolio-group/Stents/WALLSTENT-Endo/Resources/Wallstent_Venous_Brochure_(PI-781701-AA).pdf)
+- Medtronic ClosureFast RFA - [product page](https://www.medtronic.com/us-en/healthcare-professionals/products/cardiovascular/superficial-vein/closurefast-rfa-system.html) - [pdf](https://github.com/justincchoi/justincchoi.github.io/blob/1d13c2d2c989f3d1d61dfa0482229db2d5846657/Devices/VNUSClosureFastManual.pdf)
+
+#### Misc
+- Philips Peripheral IVUS Catheters - [product page](https://www.usa.philips.com/healthcare/education-resources/technologies/igt/intravascular-ultrasound-ivus/peripheral/peripheral-ivus) - [pdf](https://www.documents.philips.com/assets/20180215/4df65d5bd1454f7ebf00a888015e4ada.pdf)
+- Edwards Fogarty Catheters - [product page](https://www.edwards.com/devices/catheters/clot-management) - [pdf](https://edwardsprod.blob.core.windows.net/media/Br/devices/catheters/clot%20management/fogartyclotmanagement.pdf)
+
