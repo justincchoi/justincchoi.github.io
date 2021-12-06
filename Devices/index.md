@@ -51,7 +51,7 @@
 - Getinge Fusion Bioline - [product page](https://www.getinge.com/us/product-catalog/fusion-bioline/) - [pdf](https://www.getinge.com/dam/hospital/documents/english/mcv00106164_fusion_bioline_brochure_9-18-20-en-us.pdf)
 
 #### Aortic Devices  
-- GORE - [sizing card](https://github.com/justincchoi/justincchoi.github.io/blob/2396e7061d97e828db550bf20a2b9992a1f6a067/Devices/GORE%20Aortic%20Sizing.pdf)
+- GORE - [sizing card](https://github.com/justincchoi/justincchoi.github.io/blob/5d1231c0faba9c6d7f01ac7af5f0664c8206623c/Devices/GORE%20Aortic%20Sizing.pdf)
   - TAG - [product page](https://www.goremedical.com/products/ctagac) - [sizing](https://www.goremedical.com/resource/AY0381-EN2) - [TAAA planning](https://www.goremedical.com/resource/21194016-EN) - [TBAD planning](https://www.goremedical.com/resource/21193951-EN) - [deployment](https://www.goremedical.com/resource/AW0124-EN2)
   - EXCLUDER AAA Endoprosthesis - [product page](https://www.goremedical.com/products/excluder) - [configurations](https://www.goremedical.com/resource/21189485-EN) - [sizing](https://www.goremedical.com/resource/2026108-EN) - [deployment](https://www.goremedical.com/video/excluder-aaa-endoprosthesis-animation)
   - EXCLUDER IBE - [product page](https://www.goremedical.com/products/excluder/ibe) - [configurations](https://www.goremedical.com/resource/21189485-EN) - [sizing](http://icaavcr.com/wp-content/uploads/2020/05/Gore-IBD-PLANING.pdf) - [deployment](https://www.goremedical.com/video/brightcove/excluder-iliac-branch-endoprosthesis-animation-video)
