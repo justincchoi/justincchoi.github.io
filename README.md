@@ -1,6 +1,8 @@
 ### Vascular Surgery Resources
 
-[Product IFUs](https://justincchoi.github.io/Devices/)
+[Devices](https://justincchoi.github.io/Devices/)
+
+[Aortic Endograft Sizing](https://justincchoi.github.io/AorticSizing/)
 
 [Landmark Papers](https://justincchoi.github.io/VSPapers/)
 
