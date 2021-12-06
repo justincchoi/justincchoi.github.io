@@ -10,6 +10,7 @@
   - EXCLUDER AAA Endoprosthesis - [product page](https://www.goremedical.com/products/excluder)
     - [configurations](https://www.goremedical.com/resource/21189485-EN)
     - [sizing](https://www.goremedical.com/resource/2026108-EN)
+    - [deployment](https://www.goremedical.com/video/excluder-aaa-endoprosthesis-animation)
   - EXCLUDER IBE - [product page](https://www.goremedical.com/products/excluder/ibe)
     - [configurations](https://www.goremedical.com/resource/21189485-EN)
     - [sizing](http://icaavcr.com/wp-content/uploads/2020/05/Gore-IBD-PLANING.pdf)
