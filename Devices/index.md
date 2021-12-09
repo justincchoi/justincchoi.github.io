@@ -33,6 +33,8 @@
 - BD LifeStent - [product page](https://www.bd.com/en-us/offerings/capabilities/vascular-surgery/vascular-stenting/vascular-stents/lifestent-5f-vascular-stent-system) - [pdf](https://www.bd.com/assets/documents/PDH/BDPI_LifeStent-5F_BPV-STNT-0717-0061-3_PF10661_Brochure.pdf)
 - BSC Express - [product page](https://www.bostonscientific.com/en-US/products/stents--vascular/Express_LD_Iliac_and_Biliary_Stent_System.html) - [pdf](https://www.bostonscientific.com/content/dam/bostonscientific/pi/portfolio-group/Stents/Express%20LD%20Iliac%20and%20Biliary%20Premounted%20Stent%20System/Resources/ExpressLD_product_codes.pdf)
 - Cook Zilver PTX - [product page](https://www.cookmedical.com/products/224e3666-308f-4244-8695-6fd23bbd671c/) - [pdf](https://www.cookmedical.com/data/resources/PI-D56387-EN-F_M3_1602699734616.pdf)
+- Philips Tack - [product page](https://www.usa.philips.com/healthcare/product/HCIGTDTCKESYSTM/tack-endovascular-system-dissection-repair-device) - [pdf](https://www.documents.philips.com/assets/20210204/18f7a3232d594e36a797acc501888a52.pdf)
+- Abbott Xience - [product page](https://www.cardiovascular.abbott/us/en/hcp/products/percutaneous-coronary-intervention/xience-family.html) - [configurations](https://www.cardiovascular.abbott/us/en/hcp/products/percutaneous-coronary-intervention/xience-family/xience-sierra/ordering-information.html)
 
 #### Closure Devices  
 - Abbott Perclose Pro-Glide - [product page](https://www.cardiovascular.abbott/us/en/hcp/products/peripheral-intervention/vessel-closure/perclose-proglide-suture-mediated-closure-system/overview.html)
