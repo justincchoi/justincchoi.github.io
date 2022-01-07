@@ -23,6 +23,7 @@
 - Terumo Glidewire - [product page](https://www.terumois.com/products/guidewires.html) - [pdf](https://www.terumois.com/content/dam/terumopublic/products/glidewire/GLIDEWIRE-Portfolio-Brochure.pdf)
 
 #### Stents  
+- Abbot Xact Carotid Stent - [product page](https://www.cardiovascular.abbott/us/en/hcp/products/peripheral-intervention/xact-carotid-stent-system.html)
 - BSC Carotid Wallstent - [product page](https://www.bostonscientific.com/en-US/products/stents--vascular/wallstent-endoprosthesis/Carotid_WALLSTENT_Monorail_Endoprosthesis.html)
 - Silk Road TCAR - [product page](https://silkroadmed.com/healthcare-professionals/) - [pdf](https://silkroadmed.com/wp-content/uploads/2021/02/AP00499.D-TCAR-Brochure-So-Much-More.pdf) - [exposure/access](https://silkroadmed.com/wp-content/uploads/2020/09/SRM_Exposure_and_Access_sheet.pdf)
 - GORE VIABAHN - [product page](https://www.goremedical.com/products/viabahn) - [configurations](https://www.goremedical.com/products/viabahn/specifications-us)
