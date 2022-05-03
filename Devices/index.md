@@ -95,6 +95,7 @@
 
 #### Misc
 - Philips Peripheral IVUS Catheters - [product page](https://www.usa.philips.com/healthcare/education-resources/technologies/igt/intravascular-ultrasound-ivus/peripheral/peripheral-ivus) - [pdf](https://www.documents.philips.com/assets/20180215/4df65d5bd1454f7ebf00a888015e4ada.pdf)
+- Cordis OUTBACK - [product page](https://cordis.com/na/products/cross/endovascular/outback-elite-re-entry-catheter) - [pdf](https://cordis.com/uploads/productResources/na/Cordis-Crossing_Portfolio_Brochure.pdf)
 - Edwards Fogarty Catheters - [product page](https://www.edwards.com/devices/catheters/clot-management) - [pdf](https://edwardsprod.blob.core.windows.net/media/Br/devices/catheters/clot%20management/fogartyclotmanagement.pdf)
 - Medtronic Argyle PD Catheters - [product page](https://www.medtronic.com/covidien/en-us/products/dialysis-access/peritoneal/argyle-catheters.html)
 - Cook Coda Balloon - [product page](https://www.cookmedical.com/products/829e48bc-8fa0-43e5-9530-11ded12b6a42/)
