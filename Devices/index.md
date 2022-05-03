@@ -80,6 +80,7 @@
 
 #### Thrombectomy Devices
 - BSC AngioJet Peripheral Thrombectomy System - [product page](https://www.bostonscientific.com/en-US/products/thrombectomy-systems/angiojet-thrombectomy-system.html) - [pdf](https://www.bostonscientific.com/content/dam/bostonscientific/pi/portfolio-group/Thrombectomy/AngioJet/Resources/AngioJet%20Reference%20Guide%20(PI-282523-AC).pdf) - [set-up](https://www.bostonscientific.com/content/dam/bostonscientific/pi/general/c-19/product-guides/angiojet/AngioJet%20Set-Up%20Guide%20for%20Lab%20Use%20(PI-548404-AA).pdf)
+  - Power Pulse Delivery - 10mg tPA in 250cc NS, 30min dwell time  
 - Penumbra Indigo - [product page](https://www.penumbrainc.com/peripheral-device/indigo-system/)
 - INARI - [FlowTriever](https://www.inarimedical.com/flowtriever/) - [ClotTriever](https://www.inarimedical.com/clottriever/)
 - AngioVac - [product page](https://www.angiovac.com/overview/) - [pdf](https://www.angiovac.com/wp-content/uploads/2019/09/ANGB-257-US-Rev-03-AngioVac-Gen-3-8.8.19.pdf)
