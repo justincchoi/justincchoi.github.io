@@ -38,8 +38,10 @@
 
 #### Closure Devices  
 - Abbott Perclose Pro-Glide - [product page](https://www.cardiovascular.abbott/us/en/hcp/products/peripheral-intervention/vessel-closure/perclose-proglide-suture-mediated-closure-system/overview.html)
+- Abbott StarClose - [product page](https://www.cardiovascular.abbott/us/en/hcp/products/peripheral-intervention/starclose-se-vascular-closure-system.html)
 - Cordis MYNXGRIP - [product page](https://www.cordis.com/en_us/cardiology/close/mynxgrip-vascular-closure-device.html) - [deployment](https://www.cordis.com/content/dam/cordis/web/documents/brochure/cordis-us-mynx-grip-vascular-closure-device-procedure-guide.pdf)
 - Cordis EXOSEAL - [product page](https://www.cordis.com/en_us/cardiology/close/exoseal-vascular-closure-device.html)
+- Teleflex MANTA - [product page](https://www.teleflex.com/usa/en/product-areas/interventional/vascular-access-closure/manta-vascular-closure-device/index.html)
 - Terumo ANGIO-SEAL - [product page](https://www.terumois.com/products/closure/angio-seal-vascular-closure-devices/angio-seal.html)
 
 #### Embolization
