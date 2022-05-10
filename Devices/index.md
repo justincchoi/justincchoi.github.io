@@ -47,12 +47,13 @@
 #### Embolization
 - Abbott Amplatzer Vascular Plugs - [product page](https://www.cardiovascular.abbott/int/en/hcp/products/peripheral-intervention/amplatzer-family-vascular-plugs.html) - [pdf](http://www.cardion.cz/file/1290/avpfam-specsheet-intl.pdf)
 - Cook Nester Embolization Coil - [product page](https://www.cookmedical.com/products/b092bc19-aecd-40aa-8146-430712000368/) - [sizing](https://www.cookmedical.com/data/resources/IR-D54849-EN-F_M3_1612287138403.pdf) - [pdf](https://www.cookmedical.com/data/resources/IR-D56670-EN-F_M3_1615905167295.pdf)
-- Penumbra Ruby Coil - [product page](https://www.penumbrainc.com/peripheral-device/ruby-coil/) - [pdf](https://www.angiocalc.com/pdf/RubyCoil_Brochure_USA.pdf)
+- Penumbra Ruby Coils - [product page](https://www.penumbrainc.com/peripheral-device/ruby-coil/) - [pdf](https://www.angiocalc.com/pdf/RubyCoil_Brochure_USA.pdf)
 - BSC Interlock Coils - [product page](https://www.bostonscientific.com/en-US/products/embolization/interlock-and-idc-detachable-embolization-coils.html)
   - [Interlock-35](https://www.bostonscientific.com/content/dam/bostonscientific/pi/portfolio-group/embolization/interlock/Resources/Interlock-35-Brochure_PI-181206-AC.pdf)
   - [Interlock-18](https://www.bostonscientific.com/content/dam/bostonscientific/pi/portfolio-group/embolization/interlock/Resources/Interlock-18-Brochure_PI-177806-AB.pdf)
   - [IDC-18 Soft](https://www.bostonscientific.com/content/dam/bostonscientific/pi/portfolio-group/embolization/interlock/Resources/IDC-18-Soft-Brochure_PI-299412-AA.pdf)
 - Medtronic Onyx LES - [product page](https://europe.medtronic.com/xd-en/healthcare-professionals/products/cardiovascular/peripheral-embolization/onyx.html)
+- Terumo AZUR CS Peripheral Coil System - [product page](https://www.terumois.com/products/embolics/azur-cx.html)
 
 #### Grafts  
 - GORE PROPATEN Vascular Graft - [product page](https://www.goremedical.com/products/propaten) - [pdf](https://www.goremedical.com/resource/AY0065-EN1)
